@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-05-18T15:50:49.080689+09:00",
-  "count": 77,
+  "updatedAt": "2026-05-19T06:59:08.094883+09:00",
+  "count": 78,
   "items": [
+    {
+      "title": "第３回人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ資料",
+      "pubDate": "2026-05-18T17:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72939.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-05-18T15:21:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73239.html",
+      "source": "mhlw"
+    },
     {
       "title": "千鳥ヶ淵戦没者墓苑拝礼式の取材に関するお願い",
       "pubDate": "2026-05-18T15:00:00+09:00",
@@ -138,12 +150,6 @@
       "title": "中東情勢を踏まえた医療用手袋の放出について",
       "pubDate": "2026-05-14T17:03:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73131.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-05-14T16:53:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73184.html",
       "source": "mhlw"
     },
     {
