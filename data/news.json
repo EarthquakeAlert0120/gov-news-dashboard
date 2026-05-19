@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-19T06:59:08.094883+09:00",
-  "count": 78,
+  "updatedAt": "2026-05-19T15:43:15.569069+09:00",
+  "count": 80,
   "items": [
+    {
+      "title": "「化学物質の審査及び製造等の規制に関する法律施行令の一部を改正する政令」が閣議決定されました",
+      "pubDate": "2026-05-19T10:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72960.html",
+      "source": "mhlw"
+    },
     {
       "title": "第３回人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ資料",
       "pubDate": "2026-05-18T17:00:00+09:00",
@@ -12,6 +18,12 @@
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-05-18T15:21:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73239.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "千鳥ヶ淵戦没者墓苑拝礼式の開催（５／25（月）12:30～）",
+      "pubDate": "2026-05-18T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73120.html",
       "source": "mhlw"
     },
     {
@@ -237,12 +249,6 @@
       "source": "mhlw"
     },
     {
-      "title": "千鳥ヶ淵戦没者墓苑拝礼式の開催（５／25（月）12:30～）",
-      "pubDate": "2026-05-12T16:45:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73120.html",
-      "source": "mhlw"
-    },
-    {
       "title": "第68回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
       "pubDate": "2026-05-12T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_72995.html",
@@ -372,6 +378,12 @@
       "title": "基本計画・実施計画",
       "pubDate": "2026-05-08T11:00:00+09:00",
       "link": "https://www.mhlw.go.jp/wp/seisaku/hyouka/keikaku-kekka.html#kihon-jisshi",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第２回薬事審議会化学物質安全対策部会化学物質調査会",
+      "pubDate": "2026-05-08T10:17:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73049.html",
       "source": "mhlw"
     },
     {
