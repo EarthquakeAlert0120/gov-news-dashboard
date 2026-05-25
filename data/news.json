@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-25T16:07:50.978422+09:00",
-  "count": 85,
+  "updatedAt": "2026-05-26T07:03:49.370047+09:00",
+  "count": 89,
   "items": [
+    {
+      "title": "第42回匿名医療情報等の提供に関する専門委員会の開催について",
+      "pubDate": "2026-05-26T09:48:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73387.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和８年度ハンセン病問題対策協議会の開催について（開催案内）",
       "pubDate": "2026-05-25T15:21:00+09:00",
@@ -9,9 +15,27 @@
       "source": "mhlw"
     },
     {
+      "title": "第６５回厚生科学審議会疾病対策部会指定難病検討委員会",
+      "pubDate": "2026-05-25T15:14:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73444.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第２０回アレルギー疾患対策推進協議会 資料",
+      "pubDate": "2026-05-25T15:04:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73441.html",
+      "source": "mhlw"
+    },
+    {
       "title": "第65回厚生科学審議会疾病対策部会指定難病検討委員会の開催について",
       "pubDate": "2026-05-25T15:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73436.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-05-25T14:54:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73440.html",
       "source": "mhlw"
     },
     {
@@ -126,6 +150,12 @@
       "title": "特定募集情報等提供事業者に対する業務改善命令について",
       "pubDate": "2026-05-22T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73138.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「クルーズ船におけるハンタウイルス感染症事例について（その２）」の報道発表資料を掲載しました。",
+      "pubDate": "2026-05-22T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hantavirushps.html",
       "source": "mhlw"
     },
     {
@@ -258,12 +288,6 @@
       "title": "第３回人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ資料",
       "pubDate": "2026-05-18T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_72939.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-05-18T15:21:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73239.html",
       "source": "mhlw"
     },
     {
