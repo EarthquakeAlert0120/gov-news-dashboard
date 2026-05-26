@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-05-26T07:03:49.370047+09:00",
-  "count": 89,
+  "updatedAt": "2026-05-26T15:41:00.106432+09:00",
+  "count": 86,
   "items": [
+    {
+      "title": "「人口動態統計速報」令和８（2026）年03月分",
+      "pubDate": "2026-05-26T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/03.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第８回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議",
+      "pubDate": "2026-05-26T14:07:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73435.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第123回コーデックス連絡協議会 (開催案内）",
+      "pubDate": "2026-05-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73467.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第57回社会保障審議会生活保護基準部会 資料",
+      "pubDate": "2026-05-26T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73432.html",
+      "source": "mhlw"
+    },
     {
       "title": "第42回匿名医療情報等の提供に関する専門委員会の開催について",
       "pubDate": "2026-05-26T09:48:00+09:00",
@@ -9,15 +33,15 @@
       "source": "mhlw"
     },
     {
-      "title": "令和８年度ハンセン病問題対策協議会の開催について（開催案内）",
-      "pubDate": "2026-05-25T15:21:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73326.html",
+      "title": "標榜可能な診療科名に係る医療法施行令の改正について",
+      "pubDate": "2026-05-26T08:43:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73418.html",
       "source": "mhlw"
     },
     {
-      "title": "第６５回厚生科学審議会疾病対策部会指定難病検討委員会",
-      "pubDate": "2026-05-25T15:14:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73444.html",
+      "title": "令和８年度ハンセン病問題対策協議会の開催について（開催案内）",
+      "pubDate": "2026-05-25T15:21:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73326.html",
       "source": "mhlw"
     },
     {
@@ -108,18 +132,6 @@
       "title": "令和８年度第２回化学物質管理に係る専門家検討会 資料",
       "pubDate": "2026-05-22T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73386.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ",
-      "pubDate": "2026-05-22T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73361.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "小児がん拠点病院等の指定要件に関するワーキンググループ",
-      "pubDate": "2026-05-22T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73359.html",
       "source": "mhlw"
     },
     {
@@ -504,36 +516,6 @@
       "title": "第209回労働政策審議会労働条件分科会（資料）",
       "pubDate": "2026-05-13T09:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73065.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第68回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
-      "pubDate": "2026-05-12T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72995.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第３回人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ」の開催について",
-      "pubDate": "2026-05-12T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72935.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第15回21世紀出生児縦断調査（平成22年出生児）の概況",
-      "pubDate": "2026-05-12T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/syusseiji/24/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "総合職（化学・生物・薬学）（薬系技官）",
-      "pubDate": "2026-05-12T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "臨床研究中核病院が実施する研修について（2026年度）",
-      "pubDate": "2026-05-12T09:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72780.html",
       "source": "mhlw"
     }
   ]
