@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-05-27T15:58:55.249754+09:00",
-  "count": 86,
+  "updatedAt": "2026-05-28T07:26:58.412055+09:00",
+  "count": 87,
   "items": [
     {
       "title": "労働災害発生状況",
       "pubDate": "2026-05-27T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７年の労働災害発生状況を公表",
+      "pubDate": "2026-05-27T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73382.html",
       "source": "mhlw"
     },
     {
