@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-05-28T15:48:30.952790+09:00",
-  "count": 90,
+  "updatedAt": "2026-05-29T07:28:32.204287+09:00",
+  "count": 88,
   "items": [
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-05-28T15:54:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73565.html",
+      "source": "mhlw"
+    },
     {
       "title": "しょうけい館で夏の企画展を６月２日から開催します",
       "pubDate": "2026-05-28T14:00:00+09:00",
@@ -162,12 +168,6 @@
       "title": "第65回厚生科学審議会疾病対策部会指定難病検討委員会の開催について",
       "pubDate": "2026-05-25T15:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73436.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-05-25T14:54:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73440.html",
       "source": "mhlw"
     },
     {
@@ -375,7 +375,7 @@
       "source": "mhlw"
     },
     {
-      "title": "人事労務マガジン 特集第245号 ６月は「外国人雇用啓発月間」です 知って、守って、みんなで活躍 ～外国人雇用はルールを守って適正に～",
+      "title": "人事労務マガジン 特集第244号 ６月は「外国人雇用啓発月間」です 知って、守って、みんなで活躍 ～外国人雇用はルールを守って適正に～",
       "pubDate": "2026-05-19T19:15:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73266.html",
       "source": "mhlw"
@@ -528,18 +528,6 @@
       "title": "採用情報（期間業務職員（保険局）募集情報）",
       "pubDate": "2026-05-15T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-hokenkyoku02.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第２０回アレルギー疾患対策推進協議会 開催案内",
-      "pubDate": "2026-05-14T19:16:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73191.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "中東情勢を踏まえた医療用手袋の放出について",
-      "pubDate": "2026-05-14T17:03:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73131.html",
       "source": "mhlw"
     }
   ]
