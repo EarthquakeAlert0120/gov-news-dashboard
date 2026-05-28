@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-05-28T07:26:58.412055+09:00",
-  "count": 87,
+  "updatedAt": "2026-05-28T15:48:30.952790+09:00",
+  "count": 90,
   "items": [
+    {
+      "title": "しょうけい館で夏の企画展を６月２日から開催します",
+      "pubDate": "2026-05-28T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73464.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "介護給付費等実態統計月報（令和８（2026）年２月審査分）",
+      "pubDate": "2026-05-28T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/2026/02.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "６月は「外国人雇用啓発月間」です",
+      "pubDate": "2026-05-28T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72793.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "中央最低賃金審議会(目安制度の在り方に関する全員協議会)",
+      "pubDate": "2026-05-28T13:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+      "pubDate": "2026-05-28T13:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
+      "pubDate": "2026-05-28T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第４回 小児がん拠点病院等の指定要件に関するワーキンググループ（資料）",
+      "pubDate": "2026-05-27T19:46:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73544.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第８回 がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（資料）",
+      "pubDate": "2026-05-27T19:13:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73542.html",
+      "source": "mhlw"
+    },
     {
       "title": "労働災害発生状況",
       "pubDate": "2026-05-27T14:00:00+09:00",
@@ -492,36 +540,6 @@
       "title": "中東情勢を踏まえた医療用手袋の放出について",
       "pubDate": "2026-05-14T17:03:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73131.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事審議会 化粧品・医薬部外品部会を開催します",
-      "pubDate": "2026-05-14T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73097.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事審議会 再生医療等製品・生物由来技術部会を開催します",
-      "pubDate": "2026-05-14T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73055.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "キャリアコンサルタントになりたい方へ（第31回キャリアコンサルタント試験結果の概要について）",
-      "pubDate": "2026-05-14T13:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant01.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度 特定機能病院における医療安全のためのピアレビュー推進事業の公募について",
-      "pubDate": "2026-05-14T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/newpage_00028.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度 特定機能病院管理者研修事業の公募について",
-      "pubDate": "2026-05-14T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/newpage_00027.html",
       "source": "mhlw"
     }
   ]
