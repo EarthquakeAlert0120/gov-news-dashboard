@@ -1,7 +1,133 @@
 {
-  "updatedAt": "2026-05-29T07:28:32.204287+09:00",
-  "count": 88,
+  "updatedAt": "2026-05-29T15:48:48.822942+09:00",
+  "count": 98,
   "items": [
+    {
+      "title": "社会保障審議会(福祉部会)",
+      "pubDate": "2026-05-29T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126700.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "労働基準関係法令違反に係る公表事案",
+      "pubDate": "2026-05-29T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kinkyu/151106.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "医療費の地域差分析",
+      "pubDate": "2026-05-29T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/database/iryomap/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第32回過労死等防止対策推進協議会（ペーパーレス）開催案内",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73564.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "労働災害発生状況",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の調剤医療費（電算処理分）の動向 令和7年度1月号",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/01/",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の歯科医療費（電算処理分）の動向 令和7年度1月号",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/01/",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の医科医療費（電算処理分）の動向 令和7年度1月号",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/01/",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の医療費の動向-MEDIAS-令和7年度1月号",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/month/26/01.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "医療施設動態調査（令和8(2026)年3月末概数）",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2603.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "医療法第25条に基づく病院に対する立入検査結果について（令和５年度）",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73409.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "労働者派遣事業の許可を取り消しました（関係派遣先派遣割合報告書未提出）",
+      "pubDate": "2026-05-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73121.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "pubDate": "2026-05-29T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "pubDate": "2026-05-29T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「令和７年度ものづくり基盤技術の振興施策」（ものづくり白書）を閣議決定しました",
+      "pubDate": "2026-05-29T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou/newpage_00229.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "白書、年次報告書",
+      "pubDate": "2026-05-29T11:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei_hakusho/hakusho/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "労働保険の電子申請に関する特設サイト",
+      "pubDate": "2026-05-29T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/hoken/denshi-shinsei/tokusetusaito.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "自分らしく生きるための「人生会議」ポータルサイト",
+      "pubDate": "2026-05-29T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/acp-jinseikaigi/",
+      "source": "mhlw"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-05-29T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "一般職業紹介状況(令和8年4月分)について",
+      "pubDate": "2026-05-29T08:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73416.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第２回）配布資料",
+      "pubDate": "2026-05-29T08:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73519.html",
+      "source": "mhlw"
+    },
     {
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-05-28T15:54:00+09:00",
@@ -57,12 +183,6 @@
       "source": "mhlw"
     },
     {
-      "title": "労働災害発生状況",
-      "pubDate": "2026-05-27T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
-      "source": "mhlw"
-    },
-    {
       "title": "令和７年の労働災害発生状況を公表",
       "pubDate": "2026-05-27T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73382.html",
@@ -93,15 +213,15 @@
       "source": "mhlw"
     },
     {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-05-27T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-      "source": "mhlw"
-    },
-    {
       "title": "第１回介護保険制度における預貯金等の把握等に係る検討の場の資料について",
       "pubDate": "2026-05-27T08:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73453.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第47回保険者による健診・保健指導等に関する検討会議事録（2026年３月25日）",
+      "pubDate": "2026-05-26T21:43:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73524.html",
       "source": "mhlw"
     },
     {
@@ -231,6 +351,12 @@
       "source": "mhlw"
     },
     {
+      "title": "医療法第25条に基づく病院に対する立入検査結果について（令和４年度）",
+      "pubDate": "2026-05-22T18:07:41+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73408.html",
+      "source": "mhlw"
+    },
+    {
       "title": "令和８年度第２回化学物質管理に係る専門家検討会 資料",
       "pubDate": "2026-05-22T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73386.html",
@@ -270,18 +396,6 @@
       "title": "「クルーズ船におけるハンタウイルス感染症事例について（その２）」の報道発表資料を掲載しました。",
       "pubDate": "2026-05-22T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hantavirushps.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "pubDate": "2026-05-22T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "pubDate": "2026-05-22T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
       "source": "mhlw"
     },
     {
@@ -474,60 +588,6 @@
       "title": "福祉人材確保のプラットフォーム構築モデル支援事業の公募結果について",
       "pubDate": "2026-05-15T16:55:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73185.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第５回「中東情勢の影響を受ける医薬品、医療機器、医療物資等の確保対策本部」",
-      "pubDate": "2026-05-15T15:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73206.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "病院報告（令和８(2026)年2月分概数）",
-      "pubDate": "2026-05-15T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/02.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
-      "pubDate": "2026-05-15T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72558.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "ロシア連邦政府等から提供された抑留者に関する資料について（資料の一覧や死亡者名簿が閲覧できます）",
-      "pubDate": "2026-05-15T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/topics/bukyoku/syakai/soren/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "採用情報（期間業務職員（医政局）募集情報）",
-      "pubDate": "2026-05-15T12:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iseikyoku.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第32回 健康・医療・介護情報利活用検討会 医療等情報利活用ワーキンググループの開催案内",
-      "pubDate": "2026-05-15T11:57:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/0001210262_00097.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事工業生産動態統計令和8年2月分月報について",
-      "pubDate": "2026-05-15T11:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第57回労働政策審議会」を開催します（開催案内）",
-      "pubDate": "2026-05-15T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73039.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "採用情報（期間業務職員（保険局）募集情報）",
-      "pubDate": "2026-05-15T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-hokenkyoku02.html",
       "source": "mhlw"
     }
   ]
