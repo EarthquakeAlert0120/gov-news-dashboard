@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-06-01T17:28:53.195543+09:00",
+  "updatedAt": "2026-06-02T07:57:54.165612+09:00",
   "count": 101,
   "items": [
     {
       "title": "令和８年毎月勤労統計調査特別調査を実施します",
       "pubDate": "2026-06-01T15:00:00+09:00",
       "link": "https://www.mhlw.go.jp/topics/bukyoku/toukei/koyou/maikinchousa00.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-06-01T14:59:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73598.html",
       "source": "mhlw"
     },
     {
@@ -228,12 +234,6 @@
       "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第２回）配布資料",
       "pubDate": "2026-05-29T08:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73519.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-05-28T15:54:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73565.html",
       "source": "mhlw"
     },
     {
