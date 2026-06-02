@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-02T16:19:56.931929+09:00",
-  "count": 105,
+  "updatedAt": "2026-06-03T07:56:20.610179+09:00",
+  "count": 103,
   "items": [
     {
       "title": "第15回厚生科学審議会結核部会 議事録",
@@ -12,6 +12,12 @@
       "title": "第８回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議 資料",
       "pubDate": "2026-06-02T12:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73587.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "７月は「愛の血液助け合い運動」月間です",
+      "pubDate": "2026-06-02T11:26:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73613.html",
       "source": "mhlw"
     },
     {
@@ -612,24 +618,6 @@
       "title": "第183回医学的検証作業グループ",
       "pubDate": "2026-05-20T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73056.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "人事労務マガジン 特集第244号 ６月は「外国人雇用啓発月間」です 知って、守って、みんなで活躍 ～外国人雇用はルールを守って適正に～",
-      "pubDate": "2026-05-19T19:15:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73266.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第37回社会保障審議会医療保険部会 あん摩マッサージ指圧、はり・きゅう療養費検討専門委員会議事録",
-      "pubDate": "2026-05-19T17:06:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi2/newpage_00268.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第34回社会保障審議会医療保険部会 柔道整復療養費検討専門委員会議事録",
-      "pubDate": "2026-05-19T17:06:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi2/newpage_00267.html",
       "source": "mhlw"
     }
   ]
