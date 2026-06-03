@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-06-03T07:56:20.610179+09:00",
-  "count": 103,
+  "updatedAt": "2026-06-03T17:10:59.854461+09:00",
+  "count": 105,
   "items": [
+    {
+      "title": "「人口動態統計月報（概数）」令和７（2025）年12月分",
+      "pubDate": "2026-06-03T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/12.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第30回キャリアコンサルタント登録制度等に関する検討会を６月10日に開催します",
+      "pubDate": "2026-06-03T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73566.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７(2025)年人口動態統計月報年計（概数）の概況",
+      "pubDate": "2026-06-03T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "キャリアコンサルタント登録制度等に関する検討会について（開催案内）",
+      "pubDate": "2026-06-03T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/other-syokunou_331579.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-06-03T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（期間業務職員（化学物質審査専門員）募集情報）",
+      "pubDate": "2026-06-03T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-kagakubussitusinsasenmonin.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "被保護者調査（令和８年３月分概数）",
+      "pubDate": "2026-06-03T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/03.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第２回医薬品等安全対策部会安全対策調査会 議事録",
+      "pubDate": "2026-06-03T09:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73638.html",
+      "source": "mhlw"
+    },
     {
       "title": "第15回厚生科学審議会結核部会 議事録",
       "pubDate": "2026-06-02T14:03:00+09:00",
@@ -255,12 +303,6 @@
       "source": "mhlw"
     },
     {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-05-29T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-      "source": "mhlw"
-    },
-    {
       "title": "一般職業紹介状況(令和8年4月分)について",
       "pubDate": "2026-05-29T08:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73416.html",
@@ -309,15 +351,9 @@
       "source": "mhlw"
     },
     {
-      "title": "第４回 小児がん拠点病院等の指定要件に関するワーキンググループ（資料）",
-      "pubDate": "2026-05-27T19:46:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73544.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第８回 がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（資料）",
-      "pubDate": "2026-05-27T19:13:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73542.html",
+      "title": "人事労務マガジン 定例第188号",
+      "pubDate": "2026-05-28T09:40:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73547.html",
       "source": "mhlw"
     },
     {
@@ -594,30 +630,6 @@
       "title": "官庁訪問直前業務説明会＆相談会〈総合職（人間科学区分）〉のご案内",
       "pubDate": "2026-05-21T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ningen-kagaku/gyomusetumei-annai_06.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "AIによるサイバー攻撃に関する情報共有と医療機関等における サイバーセキュリティ対策に関する厚生労働省との意見交換について （開催案内）",
-      "pubDate": "2026-05-20T14:22:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73294.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "子ども医療電話相談事業（＃８０００事業）に 「それいけ！アンパンマン」を起用して10 周年を迎えました",
-      "pubDate": "2026-05-20T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/houdou/0000119349_00003.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第102回「電離放射線障害の業務上外に関する検討会」を開催します",
-      "pubDate": "2026-05-20T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73161.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第183回医学的検証作業グループ",
-      "pubDate": "2026-05-20T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73056.html",
       "source": "mhlw"
     }
   ]
