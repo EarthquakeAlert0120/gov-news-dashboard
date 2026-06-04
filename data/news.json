@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-04T07:59:19.927822+09:00",
-  "count": 105,
+  "updatedAt": "2026-06-04T16:20:08.000995+09:00",
+  "count": 103,
   "items": [
+    {
+      "title": "第46回厚生科学審議会 臨床研究部会 開催案内",
+      "pubDate": "2026-06-04T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73646.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第35回特定石綿被害建設業務労働者等認定審査会専門委員会 開催案内",
+      "pubDate": "2026-06-04T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73437.html",
+      "source": "mhlw"
+    },
     {
       "title": "「人口動態統計月報（概数）」令和７（2025）年12月分",
       "pubDate": "2026-06-03T14:00:00+09:00",
@@ -606,30 +618,6 @@
       "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第１回） 議事録",
       "pubDate": "2026-05-22T00:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73012.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「タブネオスカプセル 10mg」投与患者における重篤な肝機能障害に関する注意喚起について",
-      "pubDate": "2026-05-21T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/houdou/0000073061_00034.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "キャリアコンサルタント更新講習の申請を希望する機関の方へ（令和8年度6月申請説明会中止に関するお知らせ）",
-      "pubDate": "2026-05-21T11:40:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/koushu_jisshi.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "【医系技官採用】令和8年度オンライン業務説明会（歯科のみ）の受付を開始しました。",
-      "pubDate": "2026-05-21T11:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "官庁訪問直前業務説明会＆相談会〈総合職（人間科学区分）〉のご案内",
-      "pubDate": "2026-05-21T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ningen-kagaku/gyomusetumei-annai_06.html",
       "source": "mhlw"
     }
   ]
