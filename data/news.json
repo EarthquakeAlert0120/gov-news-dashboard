@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-06-08T06:59:04.481745+09:00",
-  "count": 96,
+  "updatedAt": "2026-06-08T16:25:56.853339+09:00",
+  "count": 90,
   "items": [
+    {
+      "title": "薬事審議会 医療機器・体外診断薬部会を開催します",
+      "pubDate": "2026-06-08T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73655.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８(2026)年 雇用動向調査(上半期) にご協力をお願いします",
+      "pubDate": "2026-06-08T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/oshirase/260608-01.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（任期付職員（コミュニケーション専門官）募集情報）",
+      "pubDate": "2026-06-08T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-icommunicationsenmonkan.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第３６回厚生科学審議会がん登録部会の開催について（オンライン開催）",
+      "pubDate": "2026-06-08T09:32:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73546.html",
+      "source": "mhlw"
+    },
     {
       "title": "第24回匿名介護情報等の提供に関する専門委員会",
       "pubDate": "2026-06-05T14:00:00+09:00",
@@ -78,6 +102,12 @@
       "title": "第35回特定石綿被害建設業務労働者等認定審査会専門委員会 開催案内",
       "pubDate": "2026-06-04T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73437.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（任期付職員（情報システム専門官）募集情報）",
+      "pubDate": "2026-06-04T13:39:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-jouhousystemsenmonkan_00001.html",
       "source": "mhlw"
     },
     {
@@ -510,72 +540,6 @@
       "title": "第１６回循環器病対策推進協議会 議事録",
       "pubDate": "2026-05-25T19:20:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73456.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度ハンセン病問題対策協議会の開催について（開催案内）",
-      "pubDate": "2026-05-25T15:21:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73326.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第２０回アレルギー疾患対策推進協議会 資料",
-      "pubDate": "2026-05-25T15:04:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73441.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第65回厚生科学審議会疾病対策部会指定難病検討委員会の開催について",
-      "pubDate": "2026-05-25T15:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73436.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "【医療機関・地域関係者向け情報】「夜間・休日ワンストップ窓口／希少言語に対応した遠隔通訳サービス」 第１回オンライン説明会",
-      "pubDate": "2026-05-25T14:06:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73434.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "医道審議会薬剤師分科会薬剤師国家試験出題基準改定部会（ペーパーレス）を開催します",
-      "pubDate": "2026-05-25T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73396.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第２回）を開催します",
-      "pubDate": "2026-05-25T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73380.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第１回介護保険制度における預貯金等の把握等に係る検討の場の開催について",
-      "pubDate": "2026-05-25T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73348.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「らい予防法による被害者の名誉回復及び追悼の日」式典について",
-      "pubDate": "2026-05-25T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73332.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "労災疾病臨床研究補助金事業",
-      "pubDate": "2026-05-25T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/hojokin.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "官庁訪問のご案内",
-      "pubDate": "2026-05-25T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ningen-kagaku/kantyouhouhon.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第２回 労働安全衛生法に基づく一般健康診断の検査項目等に関する検討会」を開催します",
-      "pubDate": "2026-05-25T09:58:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73420.html",
       "source": "mhlw"
     }
   ]
