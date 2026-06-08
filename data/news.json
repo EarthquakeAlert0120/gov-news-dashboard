@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-08T16:25:56.853339+09:00",
+  "updatedAt": "2026-06-09T07:20:10.451119+09:00",
   "count": 90,
   "items": [
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-06-08T19:36:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73743.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "人事労務マガジン 特集第245号 中小企業事業者の皆さまへ 高年齢者の労働災害防止のための設備改善等を支援する補助金 ～令和8年度「エイジフレンドリー補助金」の受け付けが始まりました～",
+      "pubDate": "2026-06-08T14:50:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73723.html",
+      "source": "mhlw"
+    },
     {
       "title": "薬事審議会 医療機器・体外診断薬部会を開催します",
       "pubDate": "2026-06-08T14:00:00+09:00",
@@ -84,12 +96,6 @@
       "title": "毎月勤労統計調査ー2026（令和8）年４月分結果速報",
       "pubDate": "2026-06-05T08:30:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2604p/2604p.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-06-04T17:37:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73682.html",
       "source": "mhlw"
     },
     {
@@ -534,12 +540,6 @@
       "title": "標榜可能な診療科名に係る医療法施行令の改正について",
       "pubDate": "2026-05-26T08:43:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73418.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第１６回循環器病対策推進協議会 議事録",
-      "pubDate": "2026-05-25T19:20:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73456.html",
       "source": "mhlw"
     }
   ]
