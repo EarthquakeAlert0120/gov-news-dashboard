@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-15T17:55:16.899173+09:00",
-  "count": 86,
+  "updatedAt": "2026-06-16T07:58:55.917896+09:00",
+  "count": 88,
   "items": [
+    {
+      "title": "第24回 医薬品等行政評価・監視委員会資料",
+      "pubDate": "2026-06-15T17:03:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73877.html",
+      "source": "mhlw"
+    },
     {
       "title": "薬事審議会 指定薬物部会を開催します",
       "pubDate": "2026-06-15T14:00:00+09:00",
@@ -24,6 +30,12 @@
       "title": "後期高齢者医療事業状況報告",
       "pubDate": "2026-06-15T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kouki_houkoku.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-06-15T13:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73871.html",
       "source": "mhlw"
     },
     {
@@ -54,6 +66,12 @@
       "title": "第76回ハンセン病元患者家族補償金認定審査会",
       "pubDate": "2026-06-12T15:51:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73855.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第79回WHO総会結果（概要）",
+      "pubDate": "2026-06-12T15:39:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kokusai/tp210607-01_00021.html",
       "source": "mhlw"
     },
     {
@@ -144,12 +162,6 @@
       "title": "第５回 医療扶助・健康管理支援等に関する検討会 議事録",
       "pubDate": "2026-06-12T08:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73832.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-06-11T16:19:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73823.html",
       "source": "mhlw"
     },
     {
