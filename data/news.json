@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-06-16T07:58:55.917896+09:00",
-  "count": 88,
+  "updatedAt": "2026-06-16T17:41:39.385835+09:00",
+  "count": 93,
   "items": [
+    {
+      "title": "看護系技官採用サイト更新",
+      "pubDate": "2026-06-16T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/general/saiyo/kangokei/",
+      "source": "mhlw"
+    },
+    {
+      "title": "第６６回 厚生科学審議会疾病対策部会 指定難病検討委員会（持ち回り）が開催されました",
+      "pubDate": "2026-06-16T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73719.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度「こども霞が関見学デー」を開催します",
+      "pubDate": "2026-06-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou/newpage_00231.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度「安全衛生に係る優良事業場、団体又は 功労者に対する厚生労働大臣表彰」の受賞者を決定しました",
+      "pubDate": "2026-06-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73861.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７年「労働災害動向調査（事業所調査（事業所規模100人以上）及び総合工事業調査）」の結果を公表します",
+      "pubDate": "2026-06-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/saigai/25/",
+      "source": "mhlw"
+    },
+    {
+      "title": "第212回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "pubDate": "2026-06-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73831.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「行政事業レビュー（公開プロセス）」の実施について",
+      "pubDate": "2026-06-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou_kouhou/04872_00012.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第395回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+      "pubDate": "2026-06-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73770.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第23回年金広報検討会",
+      "pubDate": "2026-06-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73640.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第110回社会保障審議会年金数理部会 資料",
+      "pubDate": "2026-06-16T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73181.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（期間業務職員（保険局）募集情報）",
+      "pubDate": "2026-06-16T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-hokenkyoku02.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-06-16T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
     {
       "title": "第24回 医薬品等行政評価・監視委員会資料",
       "pubDate": "2026-06-15T17:03:00+09:00",
@@ -54,12 +126,6 @@
       "title": "2026年度官庁訪問情報（一般職・厚生行政）を更新しました",
       "pubDate": "2026-06-15T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-kousei/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-06-15T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
       "source": "mhlw"
     },
     {
@@ -201,6 +267,12 @@
       "source": "mhlw"
     },
     {
+      "title": "第25回匿名医療・介護情報等の提供に関する委員会の開催について",
+      "pubDate": "2026-06-10T16:15:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73793.html",
+      "source": "mhlw"
+    },
+    {
       "title": "第185回市町村セミナーの資料について",
       "pubDate": "2026-06-10T15:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73790.html",
@@ -258,12 +330,6 @@
       "title": "採用情報（任期付職員（コミュニケーションデザイン専門官又は主査）募集情報）",
       "pubDate": "2026-06-10T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-communicationsenmonkan.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第６６回 厚生科学審議会疾病対策部会 指定難病検討委員会（持ち回り）を開催します",
-      "pubDate": "2026-06-10T09:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73719.html",
       "source": "mhlw"
     },
     {
@@ -492,42 +558,6 @@
       "title": "第258回社会保障審議会介護給付費分科会（Web会議）を開催します",
       "pubDate": "2026-06-02T18:11:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73631.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第15回厚生科学審議会結核部会 議事録",
-      "pubDate": "2026-06-02T14:03:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi2/000246207_00001.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第８回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議 資料",
-      "pubDate": "2026-06-02T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73587.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "７月は「愛の血液助け合い運動」月間です",
-      "pubDate": "2026-06-02T11:26:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73613.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "毎月勤労統計調査［地方調査］－令和７年12月分結果概要",
-      "pubDate": "2026-06-02T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/0712/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年労使関係総合調査にご協力をお願いします",
-      "pubDate": "2026-06-02T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/oshirase/260602.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "厚生労働省本省係長級職員（一般職相当）採用選考 - 令和８年度第１期・第２期",
-      "pubDate": "2026-06-02T09:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_33437.html",
       "source": "mhlw"
     }
   ]
