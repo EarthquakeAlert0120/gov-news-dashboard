@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-19T17:27:40.303361+09:00",
+  "updatedAt": "2026-06-22T07:08:36.303240+09:00",
   "count": 95,
   "items": [
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-06-19T14:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73966.html",
+      "source": "mhlw"
+    },
     {
       "title": "第５回セルフケア・セルフメディケーション推進に関する有識者検討会 議事要旨",
       "pubDate": "2026-06-19T14:00:00+09:00",
@@ -48,12 +54,6 @@
       "title": "第９５回がん対策推進協議会（資料）",
       "pubDate": "2026-06-18T15:27:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73926.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-06-18T15:04:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73941.html",
       "source": "mhlw"
     },
     {
