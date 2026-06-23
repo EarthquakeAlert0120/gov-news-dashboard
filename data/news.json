@@ -1,17 +1,29 @@
 {
-  "updatedAt": "2026-06-23T15:43:04.677333+09:00",
-  "count": 92,
+  "updatedAt": "2026-06-24T07:07:34.237421+09:00",
+  "count": 93,
   "items": [
+    {
+      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+      "pubDate": "2026-06-23T18:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第209回労働政策審議会労働条件分科会 議事録（2026年5月13日）",
+      "pubDate": "2026-06-23T17:10:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73976.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第73回中央最低賃金審議会 資料",
+      "pubDate": "2026-06-23T16:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74002.html",
+      "source": "mhlw"
+    },
     {
       "title": "第３回目安制度の在り方に関する全員協議会 資料",
       "pubDate": "2026-06-23T16:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73994.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
-      "pubDate": "2026-06-23T15:45:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
       "source": "mhlw"
     },
     {
@@ -54,6 +66,12 @@
       "title": "第５回 小児がん拠点病院等の指定要件に関するワーキンググループ（資料）",
       "pubDate": "2026-06-23T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73981.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第10回厚生科学審議会食品衛生監視部会 議事録",
+      "pubDate": "2026-06-22T18:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/2024giji_00014.html",
       "source": "mhlw"
     },
     {
@@ -540,18 +558,6 @@
       "title": "第９５回がん対策推進協議会（開催案内）",
       "pubDate": "2026-06-10T08:53:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73781.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第221回国会（令和８年特別会）提出法律案",
-      "pubDate": "2026-06-09T18:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/topics/bukyoku/soumu/houritu/221.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "戦没者の遺骨収集事業の実施状況等に関する報告を行いました",
-      "pubDate": "2026-06-09T16:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73744.html",
       "source": "mhlw"
     }
   ]
