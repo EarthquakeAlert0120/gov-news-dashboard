@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-25T07:10:24.888671+09:00",
-  "count": 86,
+  "updatedAt": "2026-06-25T15:42:45.813569+09:00",
+  "count": 84,
   "items": [
+    {
+      "title": "薬事審議会血液事業部会令和８年度第１回運営委員会（資料）",
+      "pubDate": "2026-06-25T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73826.html",
+      "source": "mhlw"
+    },
     {
       "title": "介護給付費等実態統計月報（令和８（2026）年３月審査分）",
       "pubDate": "2026-06-24T14:00:00+09:00",
@@ -471,6 +477,12 @@
       "source": "mhlw"
     },
     {
+      "title": "先進医療会議の開催について",
+      "pubDate": "2026-06-12T11:01:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73842.html",
+      "source": "mhlw"
+    },
+    {
       "title": "薬事工業生産動態統計令和8年3月分月報について",
       "pubDate": "2026-06-12T11:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
@@ -492,30 +504,6 @@
       "title": "令和８年度「医療通訳者、外国人患者受入れ医療コーディネーター配置等支援事業」の補助対象医療機関の公募が開始されました",
       "pubDate": "2026-06-11T16:06:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202926_00007.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度社会福祉推進事業に係る公募（追加公募）について",
-      "pubDate": "2026-06-11T14:35:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/houdou/0000195640_00047.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事審議会 医薬品等安全対策部会を開催します",
-      "pubDate": "2026-06-11T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73708.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第８回機械の無人運転における安全確保等に関する専門家検討会」を開催します",
-      "pubDate": "2026-06-11T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73671.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第３６回厚生科学審議会がん登録部会（資料）",
-      "pubDate": "2026-06-11T09:46:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73800.html",
       "source": "mhlw"
     }
   ]
