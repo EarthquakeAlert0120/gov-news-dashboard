@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-06-29T06:56:29.144911+09:00",
+  "updatedAt": "2026-06-29T16:24:03.613752+09:00",
   "count": 80,
   "items": [
+    {
+      "title": "令和７年一般労働者の実労働日数階級別のサンプルサイズの割合",
+      "pubDate": "2026-06-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_sankou_size.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７年産業、事業所規模別母集団数、標本数、有効回答率",
+      "pubDate": "2026-06-29T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_sankou.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "抗菌薬等医薬品備蓄体制整備事業 実施事業者の公募について（２次公募）",
+      "pubDate": "2026-06-29T11:19:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74146.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "厚生科学審議会科学技術部会全ゲノム解析等の推進に関する専門委員会（第26回）資料",
+      "pubDate": "2026-06-29T09:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74126.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第135回社会保障審議会介護保険部会の資料について",
+      "pubDate": "2026-06-29T08:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74114.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "社会保障審議会（介護保険部会）",
+      "pubDate": "2026-06-29T08:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度ハンセン病問題対策協議会の資料について",
+      "pubDate": "2026-06-26T17:52:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74137.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和８年度地域介護・福祉空間整備等施設整備交付金（一次協議分）の内示について",
       "pubDate": "2026-06-26T14:00:00+09:00",
@@ -60,6 +102,12 @@
       "title": "中央最低賃金審議会 (中央最低賃金審議会)",
       "pubDate": "2026-06-26T11:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "2016年10月26日 第４回社会保障審議会療養病床の在り方等に関する特別部会 議事録",
+      "pubDate": "2026-06-26T10:31:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi2/0000145518.html",
       "source": "mhlw"
     },
     {
@@ -180,12 +228,6 @@
       "title": "「第93回 労働政策審議会勤労者生活分科会中小企業退職金共済部会」を開催します（開催案内）",
       "pubDate": "2026-06-23T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73820.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "社会保障審議会（介護保険部会）",
-      "pubDate": "2026-06-23T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
       "source": "mhlw"
     },
     {
@@ -438,48 +480,6 @@
       "title": "第24回 医薬品等行政評価・監視委員会資料",
       "pubDate": "2026-06-15T17:03:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73877.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事審議会 指定薬物部会を開催します",
-      "pubDate": "2026-06-15T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73769.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第３回2040年に向けた看護職員の養成・確保の在り方に関する検討会の開催について：開催案内",
-      "pubDate": "2026-06-15T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73736.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第301回原子爆弾被爆者医療分科会」の開催について",
-      "pubDate": "2026-06-15T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73651.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "後期高齢者医療事業状況報告",
-      "pubDate": "2026-06-15T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kouki_houkoku.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
-      "pubDate": "2026-06-15T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2026年度官庁訪問情報（一般職・労働行政）を更新しました",
-      "pubDate": "2026-06-15T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-roudou/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2026年度官庁訪問情報（一般職・厚生行政）を更新しました",
-      "pubDate": "2026-06-15T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-kousei/index.html",
       "source": "mhlw"
     }
   ]
