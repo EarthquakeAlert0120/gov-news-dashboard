@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-06-29T16:24:03.613752+09:00",
-  "count": 80,
+  "updatedAt": "2026-06-30T07:04:39.009574+09:00",
+  "count": 79,
   "items": [
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-06-29T15:11:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74160.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和７年一般労働者の実労働日数階級別のサンプルサイズの割合",
       "pubDate": "2026-06-29T14:00:00+09:00",
@@ -132,12 +138,6 @@
       "title": "全世代型リ・スキリング国民運動に関する有識者会議を開催します",
       "pubDate": "2026-06-25T20:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74104.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-06-25T16:12:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74100.html",
       "source": "mhlw"
     },
     {
@@ -474,12 +474,6 @@
       "title": "採用情報（期間業務職員（保険局）募集情報）",
       "pubDate": "2026-06-16T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-hokenkyoku02.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第24回 医薬品等行政評価・監視委員会資料",
-      "pubDate": "2026-06-15T17:03:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73877.html",
       "source": "mhlw"
     }
   ]
