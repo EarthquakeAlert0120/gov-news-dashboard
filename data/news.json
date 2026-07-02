@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-07-02T15:34:20.236206+09:00",
-  "count": 97,
+  "updatedAt": "2026-07-03T07:00:43.126260+09:00",
+  "count": 96,
   "items": [
+    {
+      "title": "事業場における労働者の健康保持増進の在り方に関する検討会 第３回資料",
+      "pubDate": "2026-07-02T15:28:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74258.html",
+      "source": "mhlw"
+    },
     {
       "title": "第１回介護保険制度における預貯金等の把握等に係る検討の場議事要旨",
       "pubDate": "2026-07-02T14:00:00+09:00",
@@ -24,6 +30,12 @@
       "title": "第36回特定石綿被害建設業務労働者等認定審査会専門委員会 開催案内",
       "pubDate": "2026-07-02T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74025.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-07-02T13:27:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74249.html",
       "source": "mhlw"
     },
     {
@@ -177,12 +189,6 @@
       "source": "mhlw"
     },
     {
-      "title": "「第３回 労働安全衛生法に基づく一般健康診断の検査項目等に関する検討会」を開催します",
-      "pubDate": "2026-06-30T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74071.html",
-      "source": "mhlw"
-    },
-    {
       "title": "令和７(2025)年労使間の交渉等に関する実態調査の概況",
       "pubDate": "2026-06-30T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/list/18-r07gaiyou.html",
@@ -240,12 +246,6 @@
       "title": "第２回介護保険制度における預貯金等の把握等に係る検討の場の資料について",
       "pubDate": "2026-06-30T08:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74167.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-06-29T15:11:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74160.html",
       "source": "mhlw"
     },
     {
@@ -576,12 +576,6 @@
       "title": "公的年金財政状況報告－令和6(2024)年度－",
       "pubDate": "2026-06-19T11:24:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/shingi2/0000198528_00017.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「保険診療（調剤）の理解のために」を更新しました",
-      "pubDate": "2026-06-18T17:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shidou_kansa.html",
       "source": "mhlw"
     }
   ]
