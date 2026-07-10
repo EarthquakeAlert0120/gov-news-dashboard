@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-07-10T07:15:02.009454+09:00",
-  "count": 102,
+  "updatedAt": "2026-07-10T15:37:15.545619+09:00",
+  "count": 100,
   "items": [
+    {
+      "title": "「人口動態統計月報（概数）」令和８（2026）年２月分",
+      "pubDate": "2026-07-10T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/02.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「人口動態統計月報（概数）」令和８（2026）年１月分",
+      "pubDate": "2026-07-10T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/01.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「社会福祉施設職員等退職手当共済制度の在り方に関する検討会」（第４回）を開催します",
+      "pubDate": "2026-07-10T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74368.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第６回「石綿に係る疾病の業務上外に関する検討会」を開催します",
+      "pubDate": "2026-07-10T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74059.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第６回「労働基準法における「労働者」に関する研究会」を開催します",
+      "pubDate": "2026-07-10T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73959.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "pubDate": "2026-07-10T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "pubDate": "2026-07-10T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第２回）資料",
+      "pubDate": "2026-07-10T13:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74463.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "中央最低賃金審議会 (目安に関する小委員会)",
+      "pubDate": "2026-07-10T13:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（任期付職員（職員専門官）募集情報）",
+      "pubDate": "2026-07-10T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-syokuin-senmonkan.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "毎月勤労統計調査［地方調査］－令和８年１月分結果概要",
+      "pubDate": "2026-07-10T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/0801/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "WEBマガジン「厚生労働」（特集「全国安全週間」ほか）",
+      "pubDate": "2026-07-10T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/web_magazine/",
+      "source": "mhlw"
+    },
     {
       "title": "「創薬力向上のための官民協議会」を開催します",
       "pubDate": "2026-07-09T18:30:00+09:00",
@@ -216,18 +288,6 @@
       "title": "ロシア連邦政府等から提供された抑留者に関する資料について（資料の一覧や死亡者名簿が閲覧できます）",
       "pubDate": "2026-07-03T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/topics/bukyoku/syakai/soren/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "pubDate": "2026-07-03T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "pubDate": "2026-07-03T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
       "source": "mhlw"
     },
     {
@@ -540,78 +600,6 @@
       "title": "第６回 医療扶助・健康管理支援等に関する検討会 議事録",
       "pubDate": "2026-06-26T17:50:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74136.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度地域介護・福祉空間整備等施設整備交付金（一次協議分）の内示について",
-      "pubDate": "2026-06-26T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/hard2026-1_00001.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第２回介護保険制度における預貯金等の把握等に係る検討の場の開催について",
-      "pubDate": "2026-06-26T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74054.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和７(2025)年社会医療診療行為別統計の概況",
-      "pubDate": "2026-06-26T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/sinryo/tyosa25/",
-      "source": "mhlw"
-    },
-    {
-      "title": "第７回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)",
-      "pubDate": "2026-06-26T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shinngi_00020.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第５回「石綿に係る疾病の業務上外に関する検討会」を開催します",
-      "pubDate": "2026-06-26T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73866.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第114回ＩＬＯ総会結果（概要）",
-      "pubDate": "2026-06-26T13:57:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kokusai/ilo/ilo_soukai2026.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第１回）資料",
-      "pubDate": "2026-06-26T11:31:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74088.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第74回中央最低賃金審議会 資料",
-      "pubDate": "2026-06-26T11:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74079.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
-      "pubDate": "2026-06-26T11:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2016年10月26日 第４回社会保障審議会療養病床の在り方等に関する特別部会 議事録",
-      "pubDate": "2026-06-26T10:31:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi2/0000145518.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "毎月勤労統計調査［地方調査］－令和７年平均結果概要",
-      "pubDate": "2026-06-26T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/year.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第３回）配布資料",
-      "pubDate": "2026-06-26T08:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74080.html",
       "source": "mhlw"
     }
   ]
