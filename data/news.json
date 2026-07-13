@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-13T06:40:35.777594+09:00",
-  "count": 105,
+  "updatedAt": "2026-07-13T15:07:42.650968+09:00",
+  "count": 100,
   "items": [
+    {
+      "title": "薬事審議会 医薬品第二部会を開催します",
+      "pubDate": "2026-07-13T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74355.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第１回 令和８年度医師の働き方改革の推進等に関する検討会：資料",
+      "pubDate": "2026-07-13T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74139.html",
+      "source": "mhlw"
+    },
     {
       "title": "中央最低賃金審議会 (目安に関する小委員会)",
       "pubDate": "2026-07-10T18:00:00+09:00",
@@ -381,12 +393,6 @@
       "source": "mhlw"
     },
     {
-      "title": "令和８年度第１回厚生科学審議会疾病対策部会・第７回社会保障審議会小児慢性特定疾病対策部会（持ち回り合同開催）",
-      "pubDate": "2026-07-02T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74221.html",
-      "source": "mhlw"
-    },
-    {
       "title": "第３回療養病床の在り方等に関する検討会の開催について",
       "pubDate": "2026-07-01T16:29:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/shingi2/0000099304.html",
@@ -594,42 +600,6 @@
       "title": "第２回介護保険制度における預貯金等の把握等に係る検討の場の資料について",
       "pubDate": "2026-06-30T08:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74167.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和７年一般労働者の実労働日数階級別のサンプルサイズの割合",
-      "pubDate": "2026-06-29T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_sankou_size.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和７年産業、事業所規模別母集団数、標本数、有効回答率",
-      "pubDate": "2026-06-29T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_sankou.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "抗菌薬等医薬品備蓄体制整備事業 実施事業者の公募について（２次公募）",
-      "pubDate": "2026-06-29T11:19:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74146.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "厚生科学審議会科学技術部会全ゲノム解析等の推進に関する専門委員会（第26回）資料",
-      "pubDate": "2026-06-29T09:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74126.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第135回社会保障審議会介護保険部会の資料について",
-      "pubDate": "2026-06-29T08:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74114.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "社会保障審議会（介護保険部会）",
-      "pubDate": "2026-06-29T08:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
       "source": "mhlw"
     }
   ]
