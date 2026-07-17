@@ -1,11 +1,83 @@
 {
-  "updatedAt": "2026-07-17T06:57:31.715640+09:00",
-  "count": 84,
+  "updatedAt": "2026-07-17T14:34:35.910614+09:00",
+  "count": 91,
   "items": [
+    {
+      "title": "第20回化粧品規制協力国際会議（ICCR）が開催されました",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74751.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度 「こども霞が関見学デー」の詳細が決まりました",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou/newpage_00238.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第３回）資料",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74712.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第３回厚生科学審議会科学技術部会ヒト受精胚を用いる研究に関する審査委員会の開催について",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74628.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "薬事審議会 医薬品第一部会を開催します",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74610.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第396回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74582.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第４回薬事審議会化学物質安全対策部会化学物質調査会",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74493.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「第302回原子爆弾被爆者医療分科会」の開催について",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74057.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "中央最低賃金審議会 (目安に関する小委員会)",
+      "pubDate": "2026-07-17T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "pubDate": "2026-07-17T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "pubDate": "2026-07-17T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
+      "source": "mhlw"
+    },
     {
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-07-16T18:24:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74740.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "派遣関係団体との意見交換会",
+      "pubDate": "2026-07-16T16:50:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou/newpage_74736.html",
       "source": "mhlw"
     },
     {
@@ -117,6 +189,12 @@
       "source": "mhlw"
     },
     {
+      "title": "第30回 社会保障審議会「生活困窮者自立支援及び生活保護部会」（資料）",
+      "pubDate": "2026-07-14T19:24:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74640.html",
+      "source": "mhlw"
+    },
+    {
       "title": "ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会（第23回）の資料について",
       "pubDate": "2026-07-14T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74575.html",
@@ -177,12 +255,6 @@
       "source": "mhlw"
     },
     {
-      "title": "中央最低賃金審議会 (目安に関する小委員会)",
-      "pubDate": "2026-07-10T18:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
-      "source": "mhlw"
-    },
-    {
       "title": "アーカイブ動画のご案内【医療機関・地域関係者向け情報】「夜間・休日ワンストップ窓口／希少言語に対応した遠隔通訳サービス」第１回オンライン説明会",
       "pubDate": "2026-07-10T16:31:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74542.html",
@@ -216,18 +288,6 @@
       "title": "第６回「労働基準法における「労働者」に関する研究会」を開催します",
       "pubDate": "2026-07-10T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_73959.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "pubDate": "2026-07-10T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "pubDate": "2026-07-10T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
       "source": "mhlw"
     },
     {
@@ -453,6 +513,18 @@
       "source": "mhlw"
     },
     {
+      "title": "第77回補装具評価検討会 開催案内",
+      "pubDate": "2026-07-06T11:46:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/74hosougu_00003.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第76回補装具評価検討会 開催案内",
+      "pubDate": "2026-07-06T11:42:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/74hosougu_00002.html",
+      "source": "mhlw"
+    },
+    {
       "title": "令和８年７月６日付幹部名簿",
       "pubDate": "2026-07-06T11:00:00+09:00",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
@@ -474,36 +546,6 @@
       "title": "令和８年度老人保健健康増進等事業（老人保健事業推進費等補助金）の国庫補助協議（追加公募）について",
       "pubDate": "2026-07-03T15:09:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74285.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第67回厚生科学審議会疾病対策部会指定難病検討委員会の開催について",
-      "pubDate": "2026-07-03T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74251.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
-      "pubDate": "2026-07-03T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74017.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "ロシア連邦政府等から提供された抑留者に関する資料について（資料の一覧や死亡者名簿が閲覧できます）",
-      "pubDate": "2026-07-03T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/topics/bukyoku/syakai/soren/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和７年度 消費生活協同組合（連合会）実態調査 結果公表",
-      "pubDate": "2026-07-03T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/98-1.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "労働基準監督官採用試験広報HP",
-      "pubDate": "2026-07-03T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
       "source": "mhlw"
     }
   ]
