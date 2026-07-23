@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-23T14:47:05.700592+09:00",
-  "count": 87,
+  "updatedAt": "2026-07-24T06:58:42.129281+09:00",
+  "count": 84,
   "items": [
+    {
+      "title": "中央最低賃金審議会 (目安に関する小委員会)",
+      "pubDate": "2026-07-23T22:10:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-07-23T17:45:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74882.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「U.E.N.O.Plan～攻めの予防医療厚生労働省関係施策～ : Understand, Exercise, Nourish and Optimize for Better Health」 を公表します",
+      "pubDate": "2026-07-23T16:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/index_00154.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第３回）資料",
+      "pubDate": "2026-07-23T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74828.html",
+      "source": "mhlw"
+    },
     {
       "title": "医療用医薬品の流通改善に関する懇談会（第42回）資料",
       "pubDate": "2026-07-23T12:00:00+09:00",
@@ -159,18 +183,6 @@
       "source": "mhlw"
     },
     {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-07-17T18:48:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74773.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "中央最低賃金審議会 (目安に関する小委員会)",
-      "pubDate": "2026-07-17T18:20:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
-      "source": "mhlw"
-    },
-    {
       "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
       "pubDate": "2026-07-17T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html",
@@ -198,12 +210,6 @@
       "title": "令和８年度 「こども霞が関見学デー」の詳細が決まりました",
       "pubDate": "2026-07-17T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/houdou/newpage_00238.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第３回）資料",
-      "pubDate": "2026-07-17T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74712.html",
       "source": "mhlw"
     },
     {
@@ -411,12 +417,6 @@
       "source": "mhlw"
     },
     {
-      "title": "第210回労働政策審議会労働条件分科会（資料）",
-      "pubDate": "2026-07-14T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74576.html",
-      "source": "mhlw"
-    },
-    {
       "title": "薬事工業生産動態統計令和8年4月分月報について",
       "pubDate": "2026-07-14T11:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
@@ -504,24 +504,6 @@
       "title": "毎月勤労統計調査［地方調査］－令和８年１月分結果概要",
       "pubDate": "2026-07-10T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/0801/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「創薬力向上のための官民協議会」を開催します",
-      "pubDate": "2026-07-09T18:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74372.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第16回厚生科学審議会結核部会 資料",
-      "pubDate": "2026-07-09T18:10:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74497.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第２回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第10回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第23回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
-      "pubDate": "2026-07-09T17:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74414.html",
       "source": "mhlw"
     }
   ]
