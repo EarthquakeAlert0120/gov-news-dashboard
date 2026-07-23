@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-23T06:59:08.884518+09:00",
-  "count": 91,
+  "updatedAt": "2026-07-23T14:47:05.700592+09:00",
+  "count": 87,
   "items": [
+    {
+      "title": "医療用医薬品の流通改善に関する懇談会（第42回）資料",
+      "pubDate": "2026-07-23T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74838.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "医療用医薬品の流通の改善に関する懇談会",
+      "pubDate": "2026-07-23T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/other-isei_127251.html",
+      "source": "mhlw"
+    },
     {
       "title": "第３回厚生科学審議会科学技術部会 ヒト受精胚を用いる研究に関する審査専門委員",
       "pubDate": "2026-07-22T17:00:00+09:00",
@@ -510,42 +522,6 @@
       "title": "第２回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第10回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第23回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
       "pubDate": "2026-07-09T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74414.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2026 ＭＤＳＡＰフォーラムを開催しました",
-      "pubDate": "2026-07-09T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74461.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "病院報告（令和８(2026)年4月分概数）",
-      "pubDate": "2026-07-09T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/04.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第３回化学物質管理に係る専門家検討会を開催します",
-      "pubDate": "2026-07-09T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74297.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "地域医療構想の実現に向けた重点支援区域の12回目の選定を行いました",
-      "pubDate": "2026-07-09T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74194.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第21回若年者ものづくり競技大会」（富山県）を８月１日・２日に開催します",
-      "pubDate": "2026-07-09T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73992.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "公的年金制度一覧",
-      "pubDate": "2026-07-09T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000128073.html",
       "source": "mhlw"
     }
   ]
