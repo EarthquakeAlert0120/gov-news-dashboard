@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-07-27T15:21:08.876121+09:00",
-  "count": 87,
+  "updatedAt": "2026-07-28T06:58:17.442951+09:00",
+  "count": 89,
   "items": [
+    {
+      "title": "中央最低賃金審議会 (目安に関する小委員会)",
+      "pubDate": "2026-07-27T21:40:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-07-27T18:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74957.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第31回キャリアコンサルタント登録制度等に関する検討会 会議資料",
+      "pubDate": "2026-07-27T17:40:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74955.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第５回 小児がん拠点病院等の指定要件に関するワーキンググループ（議事録）",
+      "pubDate": "2026-07-27T16:41:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74953.html",
+      "source": "mhlw"
+    },
     {
       "title": "第3回介護保険制度における預貯金等の把握等に係る検討の場の開催について",
       "pubDate": "2026-07-27T14:00:00+09:00",
@@ -24,12 +48,6 @@
       "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第５回）資料",
       "pubDate": "2026-07-27T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74915.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "中央最低賃金審議会 (目安に関する小委員会)",
-      "pubDate": "2026-07-27T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
       "source": "mhlw"
     },
     {
@@ -111,9 +129,9 @@
       "source": "mhlw"
     },
     {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-07-23T17:45:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74882.html",
+      "title": "第１回障害福祉分野における人材確保・生産性向上に関する検討会（資料）",
+      "pubDate": "2026-07-23T16:31:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74877.html",
       "source": "mhlw"
     },
     {
@@ -516,12 +534,6 @@
       "title": "薬事工業生産動態統計令和8年4月分月報について",
       "pubDate": "2026-07-14T11:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第77回ハンセン病元患者家族補償金認定審査会",
-      "pubDate": "2026-07-14T00:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74627.html",
       "source": "mhlw"
     }
   ]
