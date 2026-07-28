@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-07-28T06:58:17.442951+09:00",
-  "count": 89,
+  "updatedAt": "2026-07-28T14:40:07.797794+09:00",
+  "count": 87,
   "items": [
     {
+      "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第６回）資料",
+      "pubDate": "2026-07-28T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74965.html",
+      "source": "mhlw"
+    },
+    {
       "title": "中央最低賃金審議会 (目安に関する小委員会)",
-      "pubDate": "2026-07-27T21:40:00+09:00",
+      "pubDate": "2026-07-28T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第３回） 議事録",
+      "pubDate": "2026-07-28T00:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74917.html",
       "source": "mhlw"
     },
     {
@@ -510,30 +522,6 @@
       "title": "ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会（第23回）の資料について",
       "pubDate": "2026-07-14T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74575.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第１２回がん診療連携拠点病院等の指定要件に関するワーキンググループ（資料）",
-      "pubDate": "2026-07-14T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74598.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第１６回厚生科学審議会結核部会の開催について",
-      "pubDate": "2026-07-14T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi2/0000068982_00002.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第31回労働政策審議会安全衛生分科会じん肺部会 議事録",
-      "pubDate": "2026-07-14T13:39:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74615.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事工業生産動態統計令和8年4月分月報について",
-      "pubDate": "2026-07-14T11:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
       "source": "mhlw"
     }
   ]
