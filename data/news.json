@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-07-30T06:52:36.644506+09:00",
+  "updatedAt": "2026-07-30T14:32:54.228385+09:00",
   "count": 88,
   "items": [
+    {
+      "title": "先進医療会議の開催について",
+      "pubDate": "2026-07-30T14:45:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74733.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "無歯科医地区等調査（令和７年度）の結果について",
+      "pubDate": "2026-07-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/77-16.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "無医地区等調査（令和７年度）の結果について",
+      "pubDate": "2026-07-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/76-16.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第１回毎月勤労統計調査の調査手法の検討等に関するワーキンググループ資料",
+      "pubDate": "2026-07-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74499.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "説明会情報の更新（総合職（数理・デジタル系））",
+      "pubDate": "2026-07-30T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和８年熊本地震を受けた食品表示法に基づく食品表示基準の運用について",
       "pubDate": "2026-07-29T16:32:00+09:00",
@@ -498,36 +528,6 @@
       "title": "ＵＨＣナレッジハブの第四回調整委員会の開催について",
       "pubDate": "2026-07-16T16:43:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74734.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第１回 厚生科学審議会医薬品医療機器制度部会の開催について（Web併用）",
-      "pubDate": "2026-07-16T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74333.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第66回厚生科学審議会予防接種・ワクチン分科会の開催について",
-      "pubDate": "2026-07-16T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73893.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「特定共同指導・共同指導における指摘事項」を更新しました",
-      "pubDate": "2026-07-16T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shidou_kansa.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第４７回がん検診のあり方に関する検討会（資料）",
-      "pubDate": "2026-07-16T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74679.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第４回）配布資料",
-      "pubDate": "2026-07-16T08:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74644.html",
       "source": "mhlw"
     }
   ]
