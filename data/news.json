@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-03T15:13:13.759523+09:00",
-  "count": 108,
+  "updatedAt": "2026-08-04T06:59:55.853821+09:00",
+  "count": 109,
   "items": [
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-08-03T18:46:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75243.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第１回厚生労働省ヘルスケアＡＸ・ＤＸ推進本部の開催案内",
+      "pubDate": "2026-08-03T15:36:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/0001210262_00099.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和７(2025)年労働争議統計調査の概況",
       "pubDate": "2026-08-03T14:00:00+09:00",
@@ -210,12 +222,6 @@
       "title": "一般職業紹介状況(令和8年6月分)について",
       "pubDate": "2026-07-31T08:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74767.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-07-30T19:24:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75157.html",
       "source": "mhlw"
     },
     {
