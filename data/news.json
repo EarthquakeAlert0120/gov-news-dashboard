@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-07T09:59:42.311384+09:00",
-  "count": 102,
+  "updatedAt": "2026-08-07T13:49:54.102942+09:00",
+  "count": 100,
   "items": [
+    {
+      "title": "令和７年度医薬品販売制度実態把握調査結果について",
+      "pubDate": "2026-08-07T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75385.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年８月７日付幹部名簿",
+      "pubDate": "2026-08-07T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和8年度 厚生労働科学研究費補助金公募要項（3次）",
       "pubDate": "2026-08-07T09:00:00+09:00",
@@ -72,12 +84,6 @@
       "title": "映画『平行と垂直』とタイアップします",
       "pubDate": "2026-08-05T12:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/houdou/tie-up_heikoutosuichoku.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年８月５日付幹部名簿",
-      "pubDate": "2026-08-05T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
       "source": "mhlw"
     },
     {
@@ -594,24 +600,6 @@
       "title": "令和８年度第１回薬事審議会 化学物質安全対策部会（ペーパーレス）を開催します",
       "pubDate": "2026-07-24T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74609.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第129回社会保障審議会医療部会 資料",
-      "pubDate": "2026-07-24T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74887.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第９５回がん対策推進協議会（議事録）",
-      "pubDate": "2026-07-24T10:54:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74895.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "全世代型リ・スキリング国民運動に関する第二回有識者会議を開催します",
-      "pubDate": "2026-07-24T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74856.html",
       "source": "mhlw"
     }
   ]
