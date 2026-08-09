@@ -1,11 +1,95 @@
 {
-  "updatedAt": "2026-08-07T13:49:54.102942+09:00",
-  "count": 100,
+  "updatedAt": "2026-08-10T06:23:21.509173+09:00",
+  "count": 107,
   "items": [
+    {
+      "title": "第210回労働政策審議会労働条件分科会 議事録（2026年7月14日）",
+      "pubDate": "2026-08-07T17:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75380.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "厚生労働省栄養系技官採用サイト",
+      "pubDate": "2026-08-07T17:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/general/saiyo/eiyoukei/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第39回社会福祉士国家試験の<br />施行について",
+      "pubDate": "2026-08-07T17:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75098.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和７年度医薬品販売制度実態把握調査結果について",
       "pubDate": "2026-08-07T15:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75385.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "全国戦没者追悼式の開催（８／15（土））",
+      "pubDate": "2026-08-07T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75283.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７年度「厚生年金保険・国民年金の収支決算の概要」を公表します",
+      "pubDate": "2026-08-07T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou_kouhou/newpage_00007.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "戦没者慰霊事業の実施状況（令和８年度）",
+      "pubDate": "2026-08-07T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75362.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "病院報告（令和８(2026)年5月分概数）",
+      "pubDate": "2026-08-07T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/05.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７年「労働安全衛生調査（実態調査）」の結果を公表します",
+      "pubDate": "2026-08-07T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/r07-46-50b.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８(2026)年度人口動態統計特殊報告 「日本における人口動態（昭和30～令和６(1955～2024)年）-外国人を含む人口動態統計-」の概況",
+      "pubDate": "2026-08-07T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/gaikoku26/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
+      "pubDate": "2026-08-07T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75088.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第２回「団体等検定制度についての出張相談会」を開催します",
+      "pubDate": "2026-08-07T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74944.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "ロシア連邦政府等から提供された抑留者に関する資料について（資料の一覧や死亡者名簿が閲覧できます）",
+      "pubDate": "2026-08-07T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/bukyoku/syakai/soren/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "pubDate": "2026-08-07T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "pubDate": "2026-08-07T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
       "source": "mhlw"
     },
     {
@@ -297,18 +381,6 @@
       "source": "mhlw"
     },
     {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "pubDate": "2026-07-31T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "pubDate": "2026-07-31T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
-      "source": "mhlw"
-    },
-    {
       "title": "強制抑留の実態調査等に関する取組状況（令和７年度）を公表しました",
       "pubDate": "2026-07-31T12:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75034.html",
@@ -570,36 +642,6 @@
       "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第５回）資料",
       "pubDate": "2026-07-27T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74915.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第３回事業場における労働者の健康保持増進の在り方に関する検討会議事録",
-      "pubDate": "2026-07-24T19:46:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74919.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「人口動態統計速報」令和８（2026）年05月分",
-      "pubDate": "2026-07-24T15:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/05.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和７(2025)年簡易生命表の概況",
-      "pubDate": "2026-07-24T15:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/life/life25/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第103回「電離放射線障害の業務上外に関する検討会」を開催します",
-      "pubDate": "2026-07-24T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74689.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第１回薬事審議会 化学物質安全対策部会（ペーパーレス）を開催します",
-      "pubDate": "2026-07-24T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74609.html",
       "source": "mhlw"
     }
   ]
