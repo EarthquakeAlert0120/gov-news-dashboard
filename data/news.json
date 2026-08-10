@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-10T13:24:22.861187+09:00",
-  "count": 107,
+  "updatedAt": "2026-08-11T06:33:29.945430+09:00",
+  "count": 104,
   "items": [
+    {
+      "title": "薬事審議会 医療機器・体外診断薬部会を開催します",
+      "pubDate": "2026-08-10T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75394.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和８年８月10日付幹部名簿",
       "pubDate": "2026-08-10T12:00:00+09:00",
@@ -24,6 +30,12 @@
       "title": "第９回 がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（議事録）",
       "pubDate": "2026-08-10T09:40:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75424.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "認知症普及啓発ドキュメンタリー映像『one day of life』完成披露上映会を開催します",
+      "pubDate": "2026-08-07T20:25:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_260810_00013.html",
       "source": "mhlw"
     },
     {
@@ -321,6 +333,12 @@
       "source": "mhlw"
     },
     {
+      "title": "報道発表資料 2026年8月",
+      "pubDate": "2026-08-01T00:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou/houdou_list_202608.html",
+      "source": "mhlw"
+    },
+    {
       "title": "雇用保険の基本手当日額の変更",
       "pubDate": "2026-07-31T19:33:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74837.html",
@@ -606,42 +624,6 @@
       "title": "中央最低賃金審議会 (目安に関する小委員会)",
       "pubDate": "2026-07-28T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第３回介護保険制度における預貯金等の把握等に係る検討の場の資料について",
-      "pubDate": "2026-07-28T00:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74993.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第３回） 議事録",
-      "pubDate": "2026-07-28T00:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74917.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第31回キャリアコンサルタント登録制度等に関する検討会 会議資料",
-      "pubDate": "2026-07-27T17:40:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74955.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第５回 小児がん拠点病院等の指定要件に関するワーキンググループ（議事録）",
-      "pubDate": "2026-07-27T16:41:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74953.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第3回介護保険制度における預貯金等の把握等に係る検討の場の開催について",
-      "pubDate": "2026-07-27T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74905.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "労働者派遣事業の許可を取り消しました（関係派遣先派遣割合報告書未提出）",
-      "pubDate": "2026-07-27T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74156.html",
       "source": "mhlw"
     }
   ]
