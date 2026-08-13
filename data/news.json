@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-13T13:45:55.529608+09:00",
-  "count": 87,
+  "updatedAt": "2026-08-14T06:36:33.151747+09:00",
+  "count": 83,
   "items": [
+    {
+      "title": "輸入食品に対する検査命令の実施 （コートジボワール産ごまの種子）",
+      "pubDate": "2026-08-13T16:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75455.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "薬事審議会 医療機器・再生医療等製品安全対策部会を開催します",
+      "pubDate": "2026-08-13T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75293.html",
+      "source": "mhlw"
+    },
     {
       "title": "第78回ハンセン病元患者家族補償金認定審査会",
       "pubDate": "2026-08-13T13:14:00+09:00",
@@ -486,42 +498,6 @@
       "title": "一般職業紹介状況(令和8年6月分)について",
       "pubDate": "2026-07-31T08:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74767.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第３回医薬品等安全対策部会安全対策調査会 議事録",
-      "pubDate": "2026-07-30T16:20:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75120.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第24回 医薬品等行政評価・監視委員会 議事録",
-      "pubDate": "2026-07-30T15:04:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75135.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "先進医療会議の開催について",
-      "pubDate": "2026-07-30T14:45:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74733.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "無歯科医地区等調査（令和７年度）の結果について",
-      "pubDate": "2026-07-30T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/77-16.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "無医地区等調査（令和７年度）の結果について",
-      "pubDate": "2026-07-30T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/76-16.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第１回毎月勤労統計調査の調査手法の検討等に関するワーキンググループ資料",
-      "pubDate": "2026-07-30T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74499.html",
       "source": "mhlw"
     }
   ]
