@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-14T06:36:33.151747+09:00",
-  "count": 83,
+  "updatedAt": "2026-08-14T13:43:33.617323+09:00",
+  "count": 78,
   "items": [
+    {
+      "title": "令和８年８月14日付幹部名簿",
+      "pubDate": "2026-08-14T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年熊本地震により被災した学生・生徒の皆様へ",
+      "pubDate": "2026-08-14T11:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/75497.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "薬事工業生産動態統計令和8年5月分月報について",
+      "pubDate": "2026-08-14T11:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（期間業務職員（医薬局）募集情報）",
+      "pubDate": "2026-08-14T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-ippangyouseijimuhojo.html",
+      "source": "mhlw"
+    },
     {
       "title": "輸入食品に対する検査命令の実施 （コートジボワール産ごまの種子）",
       "pubDate": "2026-08-13T16:00:00+09:00",
@@ -18,12 +42,6 @@
       "title": "第78回ハンセン病元患者家族補償金認定審査会",
       "pubDate": "2026-08-13T13:14:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75507.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年８月13日付幹部名簿",
-      "pubDate": "2026-08-13T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
       "source": "mhlw"
     },
     {
@@ -450,54 +468,6 @@
       "title": "緊急避妊薬のスイッチOTC化に係る環境整備のための調査事業 結果報告書",
       "pubDate": "2026-07-31T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_40123.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "強制抑留の実態調査等に関する取組状況（令和７年度）を公表しました",
-      "pubDate": "2026-07-31T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75034.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第４回ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会の開催について",
-      "pubDate": "2026-07-31T11:12:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75104.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "毎月勤労統計調査［地方調査］－令和８年２月分結果概要",
-      "pubDate": "2026-07-31T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/0802/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「共育（トモイク）プロジェクト」リーフレット",
-      "pubDate": "2026-07-31T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/bunya/koyoukintou/pamphlet/10.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "父親の仕事と育児両立読本～ワーク・ライフ・バランス ガイド～",
-      "pubDate": "2026-07-31T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/bunya/koyoukintou/pamphlet/09.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "国会会議録について",
-      "pubDate": "2026-07-31T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/kaigiroku/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "臓器移植実施体制推進支援事業について",
-      "pubDate": "2026-07-31T09:32:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/ishoku/zissitaisei_00001.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "一般職業紹介状況(令和8年6月分)について",
-      "pubDate": "2026-07-31T08:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74767.html",
       "source": "mhlw"
     }
   ]
