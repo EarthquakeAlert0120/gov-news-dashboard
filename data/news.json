@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-14T13:43:33.617323+09:00",
-  "count": 78,
+  "updatedAt": "2026-08-17T06:12:23.878319+09:00",
+  "count": 67,
   "items": [
+    {
+      "title": "第40回キャリアコンサルタント登録制度等に関する検討会 更新講習（技能講習）作業部会の開催について",
+      "pubDate": "2026-08-14T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75340.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "薬事審議会 指定薬物部会を開催します",
+      "pubDate": "2026-08-14T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74927.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "pubDate": "2026-08-14T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "pubDate": "2026-08-14T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和８年８月14日付幹部名簿",
       "pubDate": "2026-08-14T12:00:00+09:00",
@@ -12,6 +36,12 @@
       "title": "令和８年熊本地震により被災した学生・生徒の皆様へ",
       "pubDate": "2026-08-14T11:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/75497.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "定期の予防接種実施者数",
+      "pubDate": "2026-08-14T11:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/bcg/other/5.html",
       "source": "mhlw"
     },
     {
@@ -162,18 +192,6 @@
       "title": "ロシア連邦政府等から提供された抑留者に関する資料について（資料の一覧や死亡者名簿が閲覧できます）",
       "pubDate": "2026-08-07T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/topics/bukyoku/syakai/soren/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "pubDate": "2026-08-07T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "pubDate": "2026-08-07T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html",
       "source": "mhlw"
     },
     {
@@ -384,90 +402,6 @@
       "title": "採用情報（任期付職員（感染症対策課 課長補佐又は主査（感染症対策担当））募集情報）",
       "pubDate": "2026-08-03T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kansensyoutaisakutantou.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "報道発表資料 2026年8月",
-      "pubDate": "2026-08-01T00:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/houdou/houdou_list_202608.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "雇用保険の基本手当日額の変更",
-      "pubDate": "2026-07-31T19:33:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74837.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "平成30年食品衛生法改正の施行後５年を目途とした検討のとりまとめ",
-      "pubDate": "2026-07-31T16:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75197.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "労働基準関係法令違反に係る公表事案",
-      "pubDate": "2026-07-31T15:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/kinkyu/151106.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度 第１回化学物質管理に係る専門家検討会 議事録",
-      "pubDate": "2026-07-31T14:44:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75199.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和７年度雇用均等基本調査",
-      "pubDate": "2026-07-31T14:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/71-r07.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第４回化学物質管理に係る専門家検討会を開催します",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75092.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "労働災害発生状況",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "再生医療等の安全性の確保等に関する法律に基づく改善命令等について",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74981.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「高齢者におけるポリファーマシー対策の普及啓発資材について」の通知発出について",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74909.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "医療施設動態調査（令和8(2026)年5月末概数）",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2605.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年 民間主要企業春季賃上げ要求・妥結状況を公表します",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74889.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第７回「石綿に係る疾病の業務上外に関する検討会」を開催します",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74567.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "緊急避妊薬のスイッチOTC化に係る環境整備のための調査事業 結果報告書",
-      "pubDate": "2026-07-31T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_40123.html",
       "source": "mhlw"
     }
   ]
