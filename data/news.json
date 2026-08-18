@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-08-18T06:17:50.727097+09:00",
-  "count": 59,
+  "updatedAt": "2026-08-18T12:37:42.863833+09:00",
+  "count": 57,
   "items": [
+    {
+      "title": "第32回過労死等防止対策推進協議会 議事録",
+      "pubDate": "2026-08-18T10:29:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75595.html",
+      "source": "mhlw"
+    },
     {
       "title": "建設業・運輸業の働き方改革に向けた新PR動画を公開",
       "pubDate": "2026-08-17T19:23:00+09:00",
@@ -336,24 +342,6 @@
       "title": "第３７回肝炎対策推進協議会 議事録",
       "pubDate": "2026-08-04T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75244.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第130回労働政策審議会労働条件分科会労災保険部会資料",
-      "pubDate": "2026-08-04T12:22:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75267.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和8年度の広報の取組について（自殺対策）",
-      "pubDate": "2026-08-04T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/jisatsu/r8_torikumi.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "最低賃金に関するデータ・統計",
-      "pubDate": "2026-08-04T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/toukei_00001.html",
       "source": "mhlw"
     }
   ]
