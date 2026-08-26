@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-26T06:19:15.545455+09:00",
-  "count": 65,
+  "updatedAt": "2026-08-26T12:47:06.070539+09:00",
+  "count": 67,
   "items": [
+    {
+      "title": "自分らしく生きるための「人生会議」ポータルサイト",
+      "pubDate": "2026-08-26T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/acp-jinseikaigi/",
+      "source": "mhlw"
+    },
+    {
+      "title": "第２１回アレルギー疾患対策推進協議会 資料",
+      "pubDate": "2026-08-25T15:36:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75783.html",
+      "source": "mhlw"
+    },
     {
       "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
       "pubDate": "2026-08-25T14:00:00+09:00",
@@ -375,6 +387,12 @@
       "source": "mhlw"
     },
     {
+      "title": "令和８年度 人生会議（ACP）普及・啓発イベント 「自分らしく生き抜くために「人生会議」はじめてみませんか？ 2026 in 和歌山」を10月12日（月・祝）に和歌山県で開催します",
+      "pubDate": "2026-08-13T15:28:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75512.html",
+      "source": "mhlw"
+    },
+    {
       "title": "薬事審議会 医療機器・再生医療等製品安全対策部会を開催します",
       "pubDate": "2026-08-13T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75293.html",
@@ -384,12 +402,6 @@
       "title": "第78回ハンセン病元患者家族補償金認定審査会",
       "pubDate": "2026-08-13T13:14:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75507.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第５回 医療放射線の適正管理に関する検討会（議事録）",
-      "pubDate": "2026-08-12T09:02:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75451.html",
       "source": "mhlw"
     }
   ]
