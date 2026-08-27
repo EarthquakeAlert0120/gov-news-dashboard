@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-08-27T09:21:45.661522+09:00",
-  "count": 73,
+  "updatedAt": "2026-08-27T22:27:13.123480+09:00",
+  "count": 72,
   "items": [
+    {
+      "title": "令和６年度 介護保険事業状況報告（年報）",
+      "pubDate": "2026-08-27T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/24/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "薬剤師免許の申請手続き等について",
+      "pubDate": "2026-08-27T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
+      "source": "mhlw"
+    },
     {
       "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会 資料",
       "pubDate": "2026-08-27T09:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75128.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第130回社会保障審議会医療部会 資料",
+      "pubDate": "2026-08-26T19:58:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75820.html",
       "source": "mhlw"
     },
     {
@@ -414,30 +432,6 @@
       "title": "採用情報（期間業務職員（医薬局）募集情報）",
       "pubDate": "2026-08-14T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-ippangyouseijimuhojo.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "輸入食品に対する検査命令の実施 （コートジボワール産ごまの種子）",
-      "pubDate": "2026-08-13T16:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75455.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度 人生会議（ACP）普及・啓発イベント 「自分らしく生き抜くために「人生会議」はじめてみませんか？ 2026 in 和歌山」を10月12日（月・祝）に和歌山県で開催します",
-      "pubDate": "2026-08-13T15:28:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75512.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事審議会 医療機器・再生医療等製品安全対策部会を開催します",
-      "pubDate": "2026-08-13T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75293.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第78回ハンセン病元患者家族補償金認定審査会",
-      "pubDate": "2026-08-13T13:14:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75507.html",
       "source": "mhlw"
     }
   ]
