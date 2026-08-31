@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-08-31T08:01:58.199510+09:00",
-  "count": 92,
+  "updatedAt": "2026-08-31T18:10:21.659027+09:00",
+  "count": 104,
   "items": [
+    {
+      "title": "令和９年度厚生労働省所管予算概算要求関係",
+      "pubDate": "2026-08-31T17:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/wp/yosan/yosan/27syokan/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第3回ゲノムデータの個人識別性に関する検討会 資料",
+      "pubDate": "2026-08-31T17:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75852.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度「障害者雇用優良事業所等の厚生労働大臣表彰」受賞者決定",
+      "pubDate": "2026-08-31T16:04:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75755.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和9年度 厚生労働省機構・定員要求について",
+      "pubDate": "2026-08-31T16:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75872.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "国内最高齢者 ご逝去について",
+      "pubDate": "2026-08-31T15:23:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/houdou/newpage_000009.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "労働基準関係法令違反に係る公表事案",
+      "pubDate": "2026-08-31T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kinkyu/151106.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "労働災害発生状況",
+      "pubDate": "2026-08-31T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "介護給付費等実態統計月報（令和８（2026）年５月審査分）",
+      "pubDate": "2026-08-31T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/2026/05.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７年雇用動向調査結果の概況",
+      "pubDate": "2026-08-31T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "医療施設動態調査（令和8(2026)年6月末概数）",
+      "pubDate": "2026-08-31T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2606.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「令和７年外国人雇用実態調査」の結果を<br />公表します",
+      "pubDate": "2026-08-31T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75722.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第150回脳死下での臓器提供事例に係る検証会議を開催します",
+      "pubDate": "2026-08-31T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75678.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年８月31日付幹部名簿",
+      "pubDate": "2026-08-31T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "【医系技官採用】令和8年度 後期試験は行います。半日見学会（医師および医学生を対象）の受付を開始しました。",
+      "pubDate": "2026-08-31T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第６８回厚生科学審議会疾病対策部会指定難病検討委員会",
+      "pubDate": "2026-08-31T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75704.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（期間業務職員（化学物質審査専門員）募集情報）",
+      "pubDate": "2026-08-31T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-kagakubussitusinsasenmonin.html",
+      "source": "mhlw"
+    },
     {
       "title": "調剤医療費（電算処理分）の動向 ～令和7年度版～",
       "pubDate": "2026-08-28T16:00:00+09:00",
@@ -528,30 +624,6 @@
       "title": "建設業・運輸業の働き方改革に向けた新PR動画を公開",
       "pubDate": "2026-08-17T19:23:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_74962.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第188回労働政策審議会安全衛生分科会（開催案内）",
-      "pubDate": "2026-08-17T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75520.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "薬事審議会 医薬品第二部会を開催します",
-      "pubDate": "2026-08-17T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75462.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第303回原子爆弾被爆者医療分科会」の開催について",
-      "pubDate": "2026-08-17T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74972.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2026年７月３日 第７回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」 議事録",
-      "pubDate": "2026-08-17T09:23:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75551.html",
       "source": "mhlw"
     }
   ]
