@@ -1,13 +1,7 @@
 {
-  "updatedAt": "2026-09-02T16:29:28.959508+09:00",
+  "updatedAt": "2026-09-03T07:55:03.105231+09:00",
   "count": 120,
   "items": [
-    {
-      "title": "令和８年国民健康・栄養調査 ご協力のお願い",
-      "pubDate": "2026-10-01T12:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_32214.html",
-      "source": "mhlw"
-    },
     {
       "title": "戦没者慰霊事業のお知らせ（令和８年９月実施分）",
       "pubDate": "2026-09-02T14:00:00+09:00",
@@ -24,6 +18,12 @@
       "title": "第264回社会保障審議会介護給付費分科会（Web会議）を開催します",
       "pubDate": "2026-09-02T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75592.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年国民健康・栄養調査 ご協力のお願い",
+      "pubDate": "2026-09-02T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_32214.html",
       "source": "mhlw"
     },
     {
@@ -54,6 +54,12 @@
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
       "pubDate": "2026-09-02T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第59回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "pubDate": "2026-09-01T19:28:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75946.html",
       "source": "mhlw"
     },
     {
@@ -510,12 +516,6 @@
       "title": "第130回社会保障審議会医療部会 資料",
       "pubDate": "2026-08-26T19:58:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75820.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "労働基準監督官採用試験広報HP",
-      "pubDate": "2026-08-26T18:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html",
       "source": "mhlw"
     },
     {
