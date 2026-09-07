@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-07T16:45:31.098704+09:00",
+  "updatedAt": "2026-09-08T08:12:19.916238+09:00",
   "count": 120,
   "items": [
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-09-07T17:39:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76057.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第131回労働政策審議会労働条件分科会労災保険部会資料",
+      "pubDate": "2026-09-07T17:02:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76056.html",
+      "source": "mhlw"
+    },
     {
       "title": "第２回厚生労働省ヘルスケアＡＸ・ＤＸ推進本部の開催案内",
       "pubDate": "2026-09-07T15:14:00+09:00",
@@ -132,12 +144,6 @@
       "title": "第32回キャリアコンサルタント登録制度等に関する検討会 会議資料",
       "pubDate": "2026-09-03T18:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75979.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-09-03T17:36:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76000.html",
       "source": "mhlw"
     },
     {
@@ -714,12 +720,6 @@
       "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
       "pubDate": "2026-08-25T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75767.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第213回社会保障審議会医療保険部会（ペーパーレス）の開催について",
-      "pubDate": "2026-08-25T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75728.html",
       "source": "mhlw"
     }
   ]
