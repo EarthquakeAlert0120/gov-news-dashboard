@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-08T08:12:19.916238+09:00",
+  "updatedAt": "2026-09-08T16:39:25.133867+09:00",
   "count": 120,
   "items": [
+    {
+      "title": "「人口動態統計月報（概数）」令和８（2026）年４月分",
+      "pubDate": "2026-09-08T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/04.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "病院報告（令和８(2026)年6月分概数）",
+      "pubDate": "2026-09-08T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/06.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度 第１回戦没者の遺骨収集に関する有識者会議資料",
+      "pubDate": "2026-09-08T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76061.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "毎月勤労統計調査ー2026（令和8）年７月分結果速報",
+      "pubDate": "2026-09-08T08:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2607p/2607p.html",
+      "source": "mhlw"
+    },
     {
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-09-07T17:39:00+09:00",
@@ -696,30 +720,6 @@
       "title": "自分らしく生きるための「人生会議」ポータルサイト",
       "pubDate": "2026-08-26T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/acp-jinseikaigi/",
-      "source": "mhlw"
-    },
-    {
-      "title": "第35回 健康・医療・介護情報利活用検討会 医療等情報利活用ワーキンググループの開催案内",
-      "pubDate": "2026-08-25T16:56:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/0001210262_00100.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度第１回医道審議会医師分科会医師専門研修部会",
-      "pubDate": "2026-08-25T15:37:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75784.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第２１回アレルギー疾患対策推進協議会 資料",
-      "pubDate": "2026-08-25T15:36:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75783.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
-      "pubDate": "2026-08-25T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75767.html",
       "source": "mhlw"
     }
   ]
