@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-11T16:38:56.645682+09:00",
-  "count": 116,
+  "updatedAt": "2026-09-14T07:44:27.430186+09:00",
+  "count": 119,
   "items": [
+    {
+      "title": "令和８年度 第３回化学物質管理に係る専門家検討会 議事録",
+      "pubDate": "2026-09-11T16:56:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76185.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第30回キャリアコンサルタント登録制度等に関する検討会（議事録）",
+      "pubDate": "2026-09-11T16:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76159.html",
+      "source": "mhlw"
+    },
     {
       "title": "第79回ハンセン病元患者家族補償金認定審査会",
       "pubDate": "2026-09-11T15:36:00+09:00",
@@ -78,6 +90,12 @@
       "title": "インフルエンザの発生状況を更新しました",
       "pubDate": "2026-09-11T13:55:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「第１回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）",
+      "pubDate": "2026-09-11T12:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76042.html",
       "source": "mhlw"
     },
     {
