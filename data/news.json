@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-09-14T17:25:10.870209+09:00",
+  "updatedAt": "2026-09-15T08:37:53.528915+09:00",
   "count": 116,
   "items": [
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-09-14T17:22:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76213.html",
+      "source": "mhlw"
+    },
     {
       "title": "映画『ファーストボイス』とタイアップします",
       "pubDate": "2026-09-14T14:00:00+09:00",
@@ -18,6 +24,12 @@
       "title": "令和８年度医療機関等の経営状況に係る臨時調査について",
       "pubDate": "2026-09-14T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/topics/2026/09/tp0914-1.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第136回社会保障審議会介護保険部会の開催について",
+      "pubDate": "2026-09-14T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76016.html",
       "source": "mhlw"
     },
     {
@@ -42,6 +54,12 @@
       "title": "薬事審議会血液事業部会令和８年度第２回運営委員会（ペーパーレス・Web併用）の開催について",
       "pubDate": "2026-09-14T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75517.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "社会保障審議会（介護保険部会）",
+      "pubDate": "2026-09-14T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
       "source": "mhlw"
     },
     {
@@ -354,12 +372,6 @@
       "title": "毎月勤労統計調査ー2026（令和8）年７月分結果速報",
       "pubDate": "2026-09-08T08:30:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2607p/2607p.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-09-07T17:39:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76057.html",
       "source": "mhlw"
     },
     {
@@ -684,18 +696,6 @@
       "title": "９月10日から９月16日は「自殺予防週間」です",
       "pubDate": "2026-09-01T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/r8_jisatsuyoboushukan.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "リビア国保健省との協力覚書に署名しました",
-      "pubDate": "2026-08-31T18:54:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75921.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和９年度厚生労働省所管予算概算要求関係",
-      "pubDate": "2026-08-31T17:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/wp/yosan/yosan/27syokan/index.html",
       "source": "mhlw"
     }
   ]
