@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-25T17:25:17.210661+09:00",
+  "updatedAt": "2026-09-28T08:31:13.857945+09:00",
   "count": 90,
   "items": [
+    {
+      "title": "国民健康保険実態調査に関する報告システムについて",
+      "pubDate": "2026-09-28T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kokuho_jittai_system.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「医師法第16条の10第１項に基づく厚生労働大臣から一般社団法人日本専門医機構等への意見」について",
+      "pubDate": "2026-09-25T21:50:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76393.html",
+      "source": "mhlw"
+    },
     {
       "title": "第４回介護保険制度における預貯金等の把握等に係る検討の場の開催について",
       "pubDate": "2026-09-25T16:00:00+09:00",
@@ -528,18 +540,6 @@
       "title": "採用情報（任期付職員（社会・援護局保護課主査）募集情報）",
       "pubDate": "2026-09-14T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-syakai-engokyokuhogokasyusa.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2026年11月17日は世界さい帯血の日（World cord blood day）",
-      "pubDate": "2026-09-14T00:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/ishoku/zouketukansaibo_00005.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "造血幹細胞移植普及推進月間について",
-      "pubDate": "2026-09-14T00:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/ishoku/zouketukansaibo_00004.html",
       "source": "mhlw"
     }
   ]
