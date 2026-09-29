@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-28T18:13:05.555471+09:00",
-  "count": 88,
+  "updatedAt": "2026-09-29T09:45:17.803784+09:00",
+  "count": 87,
   "items": [
     {
       "title": "第132回労働政策審議会労働条件分科会労災保険部会資料",
@@ -12,6 +12,12 @@
       "title": "薬事審議会血液事業部会令和８年度第２回運営委員会（資料）",
       "pubDate": "2026-09-28T16:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76054.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-09-28T14:29:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76404.html",
       "source": "mhlw"
     },
     {
@@ -138,12 +144,6 @@
       "title": "ＵＨＣナレッジハブの第六回調整委員会の開催について",
       "pubDate": "2026-09-24T15:42:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76368.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-09-24T15:14:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76364.html",
       "source": "mhlw"
     },
     {
@@ -522,12 +522,6 @@
       "title": "第61回社会保障審議会生活保護基準部会 資料",
       "pubDate": "2026-09-15T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76182.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第189回労働政策審議会安全衛生分科会（開催案内）",
-      "pubDate": "2026-09-14T21:03:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76217.html",
       "source": "mhlw"
     }
   ]
