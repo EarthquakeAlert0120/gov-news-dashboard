@@ -1,7 +1,97 @@
 {
-  "updatedAt": "2026-09-30T09:00:51.464761+09:00",
-  "count": 89,
+  "updatedAt": "2026-09-30T18:11:39.475809+09:00",
+  "count": 97,
   "items": [
+    {
+      "title": "地域ブロック別の職種別平均手数料及び離職率について",
+      "pubDate": "2026-09-30T17:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/36163_00001.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７（2025）年 人口動態統計（確定数）の概況",
+      "pubDate": "2026-09-30T16:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/kakutei25/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "労働基準関係法令違反に係る公表事案",
+      "pubDate": "2026-09-30T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kinkyu/151106.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度保健師活動領域調査（領域調査）の結果について",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hoken/katsudou/09/ryouikichousa_r08.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の調剤医療費（電算処理分）の動向 令和8年度4～5月号",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/05/",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の歯科医療費（電算処理分）の動向 令和8年度4～5月号",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/05/",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の医科医療費（電算処理分）の動向 令和8年度4～5月号",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/05/",
+      "source": "mhlw"
+    },
+    {
+      "title": "最近の医療費の動向-MEDIAS-令和8年度4～5月号",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/topics/medias/month/26/04-05.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "石綿対策に係る全国一斉パトロールを実施します",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76403.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "医療施設動態調査（令和8(2026)年7月末概数）",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2607.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７（2025）年度 介護給付費等実態統計の概況(令和７（2025）年5月審査分～令和８（2026）年4月審査分）",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/25/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第５回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第13回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第26回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
+      "pubDate": "2026-09-30T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76378.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "おたふくかぜワクチンについての議論のまとめ",
+      "pubDate": "2026-09-30T13:50:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76495.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "営繕技官募集案内【係長級】",
+      "pubDate": "2026-09-30T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/general/saiyo/eizen_kakariin.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和７年度 看護職員の資質の向上に係る研修事業等の実施状況",
+      "pubDate": "2026-09-30T09:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76107.html",
+      "source": "mhlw"
+    },
     {
       "title": "労働災害発生状況",
       "pubDate": "2026-09-29T14:00:00+09:00",
@@ -492,48 +582,6 @@
       "title": "家事・育児の最適な協力体制づくりのための対話ツール『トモイクシートWeb版』を公表しました",
       "pubDate": "2026-09-17T09:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000070286_00001.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第22回成年後見制度利用促進専門家会議 開催案内",
-      "pubDate": "2026-09-16T18:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76199.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第25回 医薬品等行政評価・監視委員会資料",
-      "pubDate": "2026-09-16T16:53:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76266.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年度「高年齢者活躍企業コンテスト」の入賞企業が決定しました ～厚生労働大臣表彰最優秀賞・株式会社エヴァーブルー（静岡県浜松市）はじめ 入賞企業を10月９日（金）に表彰～",
-      "pubDate": "2026-09-16T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76126.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "医療施設等の自然災害からの復旧について",
-      "pubDate": "2026-09-16T13:52:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryou/00001.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第１回法的脳死判定基準に関する作業班 資料",
-      "pubDate": "2026-09-16T11:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76035.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2024年度 特定健康診査・特定保健指導の実施状況 ※掲載一時中止",
-      "pubDate": "2026-09-16T10:21:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_00084.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "人事労務マガジン 特集第248号 「働き方改革推進支援セミナー2026秋」を10月から開催します",
-      "pubDate": "2026-09-16T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76162.html",
       "source": "mhlw"
     }
   ]
