@@ -1,11 +1,29 @@
 {
-  "updatedAt": "2026-10-06T18:39:52.923066+09:00",
-  "count": 105,
+  "updatedAt": "2026-10-07T09:16:46.793335+09:00",
+  "count": 109,
   "items": [
+    {
+      "title": "毎月勤労統計調査ー2026（令和8）年８月分結果速報",
+      "pubDate": "2026-10-07T08:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2608p/2608p.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します",
+      "pubDate": "2026-10-06T20:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76092.html",
+      "source": "mhlw"
+    },
     {
       "title": "第５回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第13回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第26回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会） 資料",
       "pubDate": "2026-10-06T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76509.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第68回厚生科学審議会疾病対策部会指定難病検討委員会 議事録",
+      "pubDate": "2026-10-06T16:47:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76609.html",
       "source": "mhlw"
     },
     {
@@ -90,6 +108,12 @@
       "title": "「第21回若年者ものづくり競技大会」における選手表彰の追加について",
       "pubDate": "2026-10-05T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75929.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "人事労務マガジン 定例第192号",
+      "pubDate": "2026-10-05T13:46:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76577.html",
       "source": "mhlw"
     },
     {
