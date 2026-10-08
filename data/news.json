@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-07T18:37:17.038809+09:00",
-  "count": 116,
+  "updatedAt": "2026-10-08T09:37:59.548707+09:00",
+  "count": 117,
   "items": [
+    {
+      "title": "採用情報（期間業務職員（大臣官房会計課）募集情報",
+      "pubDate": "2026-10-08T09:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-daijinkanboukaikeika-kanrieiyoushi01.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第５回医薬品等安全対策部会安全対策調査会 議事録",
+      "pubDate": "2026-10-07T16:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76578.html",
+      "source": "mhlw"
+    },
     {
       "title": "厚生科学審議会感染症部会第２７回新型インフルエンザ対策に関する小委員会 ・第１２回危機対応医薬品等に関する小委員会についてを開催します",
       "pubDate": "2026-10-07T15:26:00+09:00",
@@ -690,12 +702,6 @@
       "title": "採用情報（任期付職員（国際課海外広報専門官）募集情報）",
       "pubDate": "2026-09-24T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kokusaikakokusaihokenkyouryokusitsusyusa_00002.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "「第58回労働政策審議会」を開催します（開催案内）",
-      "pubDate": "2026-09-24T09:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76296.html",
       "source": "mhlw"
     }
   ]
