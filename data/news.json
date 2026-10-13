@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-12T19:03:47.823345+09:00",
+  "updatedAt": "2026-10-13T11:19:15.509792+09:00",
   "count": 102,
   "items": [
+    {
+      "title": "WEBマガジン「厚生労働」（特集[臓器移植を考える]ほか更新）",
+      "pubDate": "2026-10-13T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/web_magazine/",
+      "source": "mhlw"
+    },
+    {
+      "title": "自分らしく生きるための「人生会議」ポータルサイト",
+      "pubDate": "2026-10-13T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/acp-jinseikaigi/",
+      "source": "mhlw"
+    },
     {
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-10-09T17:28:00+09:00",
@@ -429,12 +441,6 @@
       "source": "mhlw"
     },
     {
-      "title": "WEBマガジン「厚生労働」（特集[臓器移植を考える]ほか更新）",
-      "pubDate": "2026-10-01T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/web_magazine/",
-      "source": "mhlw"
-    },
-    {
       "title": "薬剤師免許の申請手続き等について",
       "pubDate": "2026-10-01T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
@@ -606,12 +612,6 @@
       "title": "「令和８年版 労働経済の分析」を公表します ～分析テーマは「ＡＩ等技術革新が進む中での労働市場の現状と課題」～",
       "pubDate": "2026-09-29T11:45:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_75700.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "厚生労働省関係の主な制度変更（令和８年10月）について",
-      "pubDate": "2026-09-29T10:13:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76324.html",
       "source": "mhlw"
     }
   ]
