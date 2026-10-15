@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-15T16:53:25.806800+09:00",
-  "count": 86,
+  "updatedAt": "2026-10-16T08:28:08.464566+09:00",
+  "count": 84,
   "items": [
+    {
+      "title": "キャリアコンサルタント養成講習・更新講習の申請を希望する機関の方へ（令和8年11月申請説明会中止に関するお知らせ）",
+      "pubDate": "2026-10-15T17:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/koushu_jisshi.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-10-15T16:19:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76750.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年熊本地震に伴う産業雇用安定助成金の特例を実施します",
+      "pubDate": "2026-10-15T16:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76532.html",
+      "source": "mhlw"
+    },
     {
       "title": "第37回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会ワクチン評価に関する小委員会の開催について",
       "pubDate": "2026-10-15T14:00:00+09:00",
@@ -132,12 +150,6 @@
       "title": "自分らしく生きるための「人生会議」ポータルサイト",
       "pubDate": "2026-10-13T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/acp-jinseikaigi/",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-10-09T17:28:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76679.html",
       "source": "mhlw"
     },
     {
@@ -492,30 +504,6 @@
       "title": "一般職業紹介状況(令和8年8月分)について",
       "pubDate": "2026-10-02T08:30:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76397.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第２回法的脳死判定基準に関する作業班（Web会議）を開催します",
-      "pubDate": "2026-10-01T17:38:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/newpage_00067.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "説明会情報の更新（総合職（数理・デジタル系））",
-      "pubDate": "2026-10-01T17:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "キャリアコンサルタントになりたい方へ（キャリアコンサルタント試験結果概要を更新しました）",
-      "pubDate": "2026-10-01T17:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant01.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "キャリアコンサルタント養成講習・更新講習の申請を希望する機関の方へ（令和8年11月申請の説明会のご案内）",
-      "pubDate": "2026-10-01T17:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/koushu_jisshi.html",
       "source": "mhlw"
     }
   ]
