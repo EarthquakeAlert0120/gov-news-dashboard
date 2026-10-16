@@ -1,7 +1,109 @@
 {
-  "updatedAt": "2026-10-16T08:28:08.464566+09:00",
-  "count": 84,
+  "updatedAt": "2026-10-16T16:46:06.052982+09:00",
+  "count": 89,
   "items": [
+    {
+      "title": "薬事審議会 医療機器・体外診断薬部会を開催します",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76766.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度生活衛生功労者に対する厚生労働大臣表彰について",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76727.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度厚生労働統計功労者功績表彰の受賞者が決定しました",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76718.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "病院報告（令和８(2026)年7月分概数）",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/07.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第２２回肝炎治療戦略会議の開催について",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76678.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第271回社会保障審議会介護給付費分科会（Web会議）を開催します",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76624.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第213回労働政策審議会労働条件分科会 開催案内",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76433.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "中央最低賃金審議会(目安制度の在り方に関する全員協議会)",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+      "pubDate": "2026-10-16T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "インフルエンザに関する報道発表資料を更新しました",
+      "pubDate": "2026-10-16T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "pubDate": "2026-10-16T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "pubDate": "2026-10-16T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "インフルエンザの発生状況を更新しました",
+      "pubDate": "2026-10-16T13:55:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "薬事工業生産動態統計令和8年7月分月報について",
+      "pubDate": "2026-10-16T11:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和8年国民年金被保険者実態調査にご協力をお願いします",
+      "pubDate": "2026-10-16T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/140-15.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "人口動態職業・産業別統計 調査の概要",
+      "pubDate": "2026-10-16T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/list/135-2.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（任期付職員（就労支援専門官）募集情報）",
+      "pubDate": "2026-10-16T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-syuuroushiensenmonkan.html",
+      "source": "mhlw"
+    },
     {
       "title": "キャリアコンサルタント養成講習・更新講習の申請を希望する機関の方へ（令和8年11月申請説明会中止に関するお知らせ）",
       "pubDate": "2026-10-15T17:00:00+09:00",
@@ -192,30 +294,6 @@
       "title": "第６回2040年に向けた看護職員の養成・確保の在り方に関する検討会の開催について：開催案内",
       "pubDate": "2026-10-09T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76493.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "インフルエンザに関する報道発表資料を更新しました",
-      "pubDate": "2026-10-09T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "pubDate": "2026-10-09T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "pubDate": "2026-10-09T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "インフルエンザの発生状況を更新しました",
-      "pubDate": "2026-10-09T13:55:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html",
       "source": "mhlw"
     },
     {
@@ -456,54 +534,6 @@
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
       "pubDate": "2026-10-05T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "国民健康保険実態調査に関する報告システムについて",
-      "pubDate": "2026-10-02T15:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kokuho_jittai_system.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "総合職（化学・生物・薬学）（薬系技官）",
-      "pubDate": "2026-10-02T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
-      "pubDate": "2026-10-02T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76250.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "健康・医療・介護情報利活用検討会 医療等情報利活用ワーキンググループ 第１回歯科情報に関する技術作業班の開催案内",
-      "pubDate": "2026-10-02T11:18:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/0001210262_00104.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "食肉検査等情報還元調査",
-      "pubDate": "2026-10-02T11:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/113-1.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "【医系技官採用】医系技官採用情報に令和8年度後期試験の小論文課題を掲載しました（応募期間：10月7日～11月6日）",
-      "pubDate": "2026-10-02T11:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第92回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
-      "pubDate": "2026-10-02T08:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76543.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "一般職業紹介状況(令和8年8月分)について",
-      "pubDate": "2026-10-02T08:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76397.html",
       "source": "mhlw"
     }
   ]
