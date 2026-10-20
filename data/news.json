@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-10-19T17:20:39.589205+09:00",
-  "count": 93,
+  "updatedAt": "2026-10-20T09:02:48.112973+09:00",
+  "count": 92,
   "items": [
     {
       "title": "11月17日は世界さい帯血の日です。",
       "pubDate": "2026-11-17T00:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/htcp-topics-20261001_00001.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-10-19T17:35:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76821.html",
       "source": "mhlw"
     },
     {
@@ -180,12 +186,6 @@
       "title": "キャリアコンサルタント養成講習・更新講習の申請を希望する機関の方へ（令和8年11月申請説明会中止に関するお知らせ）",
       "pubDate": "2026-10-15T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/koushu_jisshi.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-10-15T16:19:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76750.html",
       "source": "mhlw"
     },
     {
@@ -552,12 +552,6 @@
       "title": "厚生労働省 心理療法士（一般職員）採用案内",
       "pubDate": "2026-10-06T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/shinriryouhoushi.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第2回精神医療に関する地域医療構想検討ワーキンググループの開催について：開催案内",
-      "pubDate": "2026-10-06T08:46:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76595.html",
       "source": "mhlw"
     }
   ]
