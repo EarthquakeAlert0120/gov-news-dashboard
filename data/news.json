@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-22T17:11:15.216161+09:00",
-  "count": 90,
+  "updatedAt": "2026-10-23T08:47:49.273205+09:00",
+  "count": 89,
   "items": [
+    {
+      "title": "毎月勤労統計調査ー2026（令和８）年８月分結果確報",
+      "pubDate": "2026-10-23T08:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2608r/2608r.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-10-22T14:53:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76909.html",
+      "source": "mhlw"
+    },
     {
       "title": "令和８年度の医師臨床研修マッチング結果をお知らせします",
       "pubDate": "2026-10-22T14:00:00+09:00",
@@ -168,12 +180,6 @@
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
       "pubDate": "2026-10-20T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-10-19T17:35:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76821.html",
       "source": "mhlw"
     },
     {
@@ -528,18 +534,6 @@
       "title": "第６回2040年に向けた看護職員の養成・確保の在り方に関する検討会の開催について：開催案内",
       "pubDate": "2026-10-09T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76493.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第10回）の資料について",
-      "pubDate": "2026-10-09T08:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76664.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第60回労働政策審議会人材開発分科会（オンライン併用）の開催について",
-      "pubDate": "2026-10-08T18:39:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76663.html",
       "source": "mhlw"
     }
   ]
