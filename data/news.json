@@ -1,7 +1,67 @@
 {
-  "updatedAt": "2026-10-26T07:57:06.023962+09:00",
-  "count": 91,
+  "updatedAt": "2026-10-26T17:21:04.807751+09:00",
+  "count": 100,
   "items": [
+    {
+      "title": "薬剤師免許に関するオンライン申請手続きのご案内",
+      "pubDate": "2026-10-26T17:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "説明会情報の更新（総合職（数理・デジタル系））",
+      "pubDate": "2026-10-26T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第３回 令和８年度医師の働き方改革の推進等に関する検討会：開催案内",
+      "pubDate": "2026-10-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76922.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第３回「団体等検定制度についての出張相談会」を開催します",
+      "pubDate": "2026-10-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76792.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第4回 困難な問題を抱える女性への支援に関する検討会を開催いたします",
+      "pubDate": "2026-10-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76741.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "【医系技官採用】医系技官採用情報に令和8年度後期試験の日程を掲載しました。",
+      "pubDate": "2026-10-26T12:02:00+09:00",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "2026年７月31日 第１回毎月勤労統計調査の調査手法の検討等に関する ワーキンググループ 議事録",
+      "pubDate": "2026-10-26T12:01:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76958.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-10-26T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第137回社会保障審議会介護保険部会の資料について",
+      "pubDate": "2026-10-26T08:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76887.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "社会保障審議会（介護保険部会）",
+      "pubDate": "2026-10-26T08:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
+      "source": "mhlw"
+    },
     {
       "title": "第33回キャリアコンサルタント登録制度等に関する検討会（会議資料）",
       "pubDate": "2026-10-23T18:40:00+09:00",
@@ -183,6 +243,12 @@
       "source": "mhlw"
     },
     {
+      "title": "第５回 医療関係職種の安定的な養成・確保に関する検討会：資料",
+      "pubDate": "2026-10-20T18:15:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76854.html",
+      "source": "mhlw"
+    },
+    {
       "title": "第５回 医療関係職種の安定的な養成・確保に関する検討会：開催案内",
       "pubDate": "2026-10-20T17:02:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76847.html",
@@ -231,12 +297,6 @@
       "source": "mhlw"
     },
     {
-      "title": "社会保障審議会（介護保険部会）",
-      "pubDate": "2026-10-20T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
-      "source": "mhlw"
-    },
-    {
       "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
       "pubDate": "2026-10-20T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html",
@@ -252,12 +312,6 @@
       "title": "第25回21世紀出生児縦断調査【平成13年出生児】へのご協力をお願いします",
       "pubDate": "2026-10-20T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/judan/taishousha/sn_11.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-10-20T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
       "source": "mhlw"
     },
     {
