@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-03T19:21:55.837215+09:00",
-  "count": 104,
+  "updatedAt": "2026-11-04T09:58:44.548091+09:00",
+  "count": 105,
   "items": [
+    {
+      "title": "令和８年秋の叙勲受章者について",
+      "pubDate": "2026-11-04T09:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76949.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年秋の褒章受章者について",
+      "pubDate": "2026-11-04T09:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76875.html",
+      "source": "mhlw"
+    },
     {
       "title": "歯科衛生士の業務のあり方等に関する検討会 中間報告",
       "pubDate": "2026-11-02T17:06:00+09:00",
@@ -90,6 +102,12 @@
       "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第５回）配布資料",
       "pubDate": "2026-11-02T08:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77111.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第16回医師養成過程を通じた医師の偏在対策等に関する検討会",
+      "pubDate": "2026-11-01T19:19:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77137.html",
       "source": "mhlw"
     },
     {
@@ -357,12 +375,6 @@
       "source": "mhlw"
     },
     {
-      "title": "第16回医師養成過程を通じた医師の偏在対策等に関する検討会",
-      "pubDate": "2026-10-27T17:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76989.html",
-      "source": "mhlw"
-    },
-    {
       "title": "令和７(2025)年度衛生行政報告例の概況",
       "pubDate": "2026-10-27T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/eisei_houkoku/25/",
@@ -618,12 +630,6 @@
       "title": "人事労務マガジン 特集第249号 国家公務員の高い専門能力と豊富な経験を事業に活かしてみませんか？他",
       "pubDate": "2026-10-21T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76816.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第211回労働政策審議会労働条件分科会 議事録（2026年9月16日）",
-      "pubDate": "2026-10-20T21:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76835.html",
       "source": "mhlw"
     }
   ]
