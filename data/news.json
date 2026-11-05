@@ -1,11 +1,23 @@
 {
-  "updatedAt": "2026-11-04T19:15:44.298772+09:00",
-  "count": 108,
+  "updatedAt": "2026-11-05T10:12:32.433968+09:00",
+  "count": 111,
   "items": [
+    {
+      "title": "第63回社会保障審議会生活保護基準部会 資料",
+      "pubDate": "2026-11-05T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77177.html",
+      "source": "mhlw"
+    },
     {
       "title": "「人口動態統計月報（概数）」令和８（2026）年６月分",
       "pubDate": "2026-11-04T15:00:00+09:00",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/06.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度 第２回化学物質管理に係る専門家検討会 議事録",
+      "pubDate": "2026-11-04T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77172.html",
       "source": "mhlw"
     },
     {
@@ -210,6 +222,12 @@
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-10-30T15:25:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77107.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度（令和７年度からの繰越分）医療提供体制施設整備交付金（２次募集）の交付額の内示について",
+      "pubDate": "2026-10-30T15:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76961.html",
       "source": "mhlw"
     },
     {
