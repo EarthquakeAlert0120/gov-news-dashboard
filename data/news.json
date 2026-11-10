@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-09T19:44:47.382816+09:00",
-  "count": 117,
+  "updatedAt": "2026-11-10T12:04:50.593735+09:00",
+  "count": 118,
   "items": [
+    {
+      "title": "WEBマガジン「厚生労働」（特集[技能五輪国際大会]ほか更新）",
+      "pubDate": "2026-11-10T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/web_magazine/",
+      "source": "mhlw"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-11-10T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "アルコール関連問題啓発週間（11月10日～11月16日）に伴い、 YouTube動画を公開します",
+      "pubDate": "2026-11-10T09:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77189.html",
+      "source": "mhlw"
+    },
     {
       "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第10回）議事録",
       "pubDate": "2026-11-09T16:37:00+09:00",
@@ -192,12 +210,6 @@
       "title": "「第４回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）",
       "pubDate": "2026-11-06T13:22:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77243.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-11-06T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
       "source": "mhlw"
     },
     {
@@ -696,12 +708,6 @@
       "title": "第272回社会保障審議会介護給付費分科会（Web会議）を開催します",
       "pubDate": "2026-10-27T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76725.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第１回国民年金第３号被保険者制度等に関する検討会（議事録）",
-      "pubDate": "2026-10-27T09:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76904.html",
       "source": "mhlw"
     }
   ]
