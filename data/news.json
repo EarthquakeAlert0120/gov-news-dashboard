@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-12T19:31:11.560304+09:00",
-  "count": 120,
+  "updatedAt": "2026-11-13T10:35:10.891411+09:00",
+  "count": 119,
   "items": [
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-11-13T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "厚生労働省本省係長級職員（一般職相当）採用選考 - 令和８年度第３期・第４期",
+      "pubDate": "2026-11-13T09:30:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_33437.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "後発医薬品を製造販売する企業の安定供給の取組に関する評価結果を公表します",
+      "pubDate": "2026-11-13T09:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77371.html",
+      "source": "mhlw"
+    },
     {
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-11-12T17:24:00+09:00",
@@ -45,15 +63,15 @@
       "source": "mhlw"
     },
     {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-11-12T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-      "source": "mhlw"
-    },
-    {
       "title": "令和８年度第６回医薬品等安全対策部会安全対策調査会 議事録",
       "pubDate": "2026-11-11T16:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77206.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第13回自殺総合対策の推進に関する有識者会議資料",
+      "pubDate": "2026-11-11T14:07:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77355.html",
       "source": "mhlw"
     },
     {
@@ -696,30 +714,6 @@
       "title": "「第14回厚生科学審議会食品衛生監視部会」の開催について",
       "pubDate": "2026-10-30T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76613.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "キャリアコンサルタント更新講習について、技能講習一覧を更新しました",
-      "pubDate": "2026-10-30T10:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koushin.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "キャリアコンサルタントになりたい方へ（キャリアコンサルタント養成講習一覧を更新しました）",
-      "pubDate": "2026-10-30T10:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant01.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "採用情報（任期付職員（企画開発係長）募集情報）",
-      "pubDate": "2026-10-30T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-igyoukeieisenmonkanorsyusa_00001.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "毎月勤労統計調査地方調査令和７年６月結果の一部訂正について（令和８年10月30日）",
-      "pubDate": "2026-10-30T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/list/30-1b.html",
       "source": "mhlw"
     }
   ]
