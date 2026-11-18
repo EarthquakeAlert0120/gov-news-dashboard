@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-11-17T20:23:45.203733+09:00",
-  "count": 105,
+  "updatedAt": "2026-11-18T11:40:32.153521+09:00",
+  "count": 103,
   "items": [
+    {
+      "title": "人事労務マガジン 特集第250号 12月は「職場のハラスメント撲滅月間」他",
+      "pubDate": "2026-11-18T11:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77416.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（任期付職員（課長補佐又は主査（感染症対策担当）募集情報）",
+      "pubDate": "2026-11-18T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kacyohosamatawasyusa.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和９・10年度競争参加資格審査（建設工事及び測量・建設コンサルタント等業務）定期審査について",
+      "pubDate": "2026-11-18T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/sinsei/chotatu/sikaku/",
+      "source": "mhlw"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-11-18T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第３８回厚生科学審議会がん登録部会（資料）",
+      "pubDate": "2026-11-18T09:40:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77501.html",
+      "source": "mhlw"
+    },
     {
       "title": "第64回社会保障審議会生活保護基準部会 資料",
       "pubDate": "2026-11-17T17:30:00+09:00",
@@ -48,12 +78,6 @@
       "title": "採用情報（任期付職員（企画開発係長）募集情報）",
       "pubDate": "2026-11-17T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-igyoukeieisenmonkanorsyusa_00002.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-11-17T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
       "source": "mhlw"
     },
     {
@@ -594,42 +618,6 @@
       "title": "第１タスクフォース第１回 資料",
       "pubDate": "2026-11-04T12:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77023.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第41回管理栄養士国家試験の実施について",
-      "pubDate": "2026-11-04T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/kanrieiyoushi/about.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "被保護者調査（令和８年８月分概数）",
-      "pubDate": "2026-11-04T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/08.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "採用情報（任期付職員（自立支援振興室長補佐）募集情報）",
-      "pubDate": "2026-11-04T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-jiritsushienshinkoushitsuchouhosa.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "採用情報（任期付職員（障害者文化芸術計画推進官）募集情報）",
-      "pubDate": "2026-11-04T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-shougaisyabunkageijyutsukeikakusuishinkan.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年秋の叙勲受章者について",
-      "pubDate": "2026-11-04T09:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76949.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "令和８年秋の褒章受章者について",
-      "pubDate": "2026-11-04T09:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76875.html",
       "source": "mhlw"
     }
   ]
