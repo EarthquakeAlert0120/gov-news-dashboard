@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-11-18T19:56:36.137389+09:00",
+  "updatedAt": "2026-11-19T11:09:13.720328+09:00",
   "count": 104,
   "items": [
+    {
+      "title": "【医系技官採用】令和8年度 医療政策セミナー（医師および医学生を対象）の受付を開始しました。",
+      "pubDate": "2026-11-19T11:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html",
+      "source": "mhlw"
+    },
     {
       "title": "医薬品安定供給・流通確認システムへの不正アクセスに係る 個人情報の漏えいについて",
       "pubDate": "2026-11-18T16:30:00+09:00",
@@ -618,12 +624,6 @@
       "title": "「第64回技能五輪全国大会」を12月４日から７日まで開催します",
       "pubDate": "2026-11-05T14:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_76817.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第2回厚生科学審議会医療用医薬品迅速・安定供給部会 開催案内",
-      "pubDate": "2026-11-04T22:03:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77191.html",
       "source": "mhlw"
     }
   ]
