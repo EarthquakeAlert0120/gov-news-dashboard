@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-11-19T19:59:00.055697+09:00",
-  "count": 106,
+  "updatedAt": "2026-11-20T10:57:47.675336+09:00",
+  "count": 108,
   "items": [
+    {
+      "title": "WEBマガジン「厚生労働」（特集[技能五輪国際大会]ほか更新）",
+      "pubDate": "2026-11-20T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/web_magazine/",
+      "source": "mhlw"
+    },
+    {
+      "title": "採用情報（任期付職員（地域医療計画課長補佐）募集情報）",
+      "pubDate": "2026-11-20T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-chiikiiryoukeikakukahosa.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "薬剤師免許の申請手続き等について",
+      "pubDate": "2026-11-20T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "pubDate": "2026-11-20T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和９年 医政局所管国家試験会場（予定）一覧",
+      "pubDate": "2026-11-20T10:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html",
+      "source": "mhlw"
+    },
     {
       "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
       "pubDate": "2026-11-19T15:12:00+09:00",
@@ -126,12 +156,6 @@
       "title": "令和９・10年度競争参加資格審査（建設工事及び測量・建設コンサルタント等業務）定期審査について",
       "pubDate": "2026-11-18T10:00:00+09:00",
       "link": "https://www.mhlw.go.jp/sinsei/chotatu/sikaku/",
-      "source": "mhlw"
-    },
-    {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "pubDate": "2026-11-18T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
       "source": "mhlw"
     },
     {
@@ -459,12 +483,6 @@
       "source": "mhlw"
     },
     {
-      "title": "WEBマガジン「厚生労働」（特集[技能五輪国際大会]ほか更新）",
-      "pubDate": "2026-11-10T10:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/web_magazine/",
-      "source": "mhlw"
-    },
-    {
       "title": "アルコール関連問題啓発週間（11月10日～11月16日）に伴い、 YouTube動画を公開します",
       "pubDate": "2026-11-10T09:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77189.html",
@@ -630,12 +648,6 @@
       "title": "「第４回 創薬力向上のための官民協議会 施策検討・推進部会」を開催します（開催案内）",
       "pubDate": "2026-11-06T13:22:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77243.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "毎月勤労統計調査ー2026（令和8）年９月分結果速報等",
-      "pubDate": "2026-11-06T08:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2609p/2609p.html",
       "source": "mhlw"
     }
   ]
