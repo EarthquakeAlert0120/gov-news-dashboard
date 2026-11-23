@@ -1,7 +1,13 @@
 {
-  "updatedAt": "2026-11-20T19:47:30.105799+09:00",
-  "count": 106,
+  "updatedAt": "2026-11-23T10:16:36.279704+09:00",
+  "count": 104,
   "items": [
+    {
+      "title": "令和８年度 感染症危機管理対応のための厚生労働省エボラ出血熱等対策推進本部訓練を開催します",
+      "pubDate": "2026-11-20T21:21:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77581.html",
+      "source": "mhlw"
+    },
     {
       "title": "「第2回と畜場の制度に関する研究会」の開催について",
       "pubDate": "2026-11-20T20:09:00+09:00",
@@ -618,24 +624,6 @@
       "title": "令和８年度第２回献血推進調査会 資料",
       "pubDate": "2026-11-09T10:43:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77284.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "介護福祉士養成施設における教育の充実モデル支援事業の公募結果について",
-      "pubDate": "2026-11-09T09:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77232.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第138回社会保障審議会介護保険部会の資料について",
-      "pubDate": "2026-11-09T08:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77213.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "不正アクセスによる情報漏えい等の事案を踏まえたセキュリティ対策の徹底について（注意喚起）",
-      "pubDate": "2026-11-06T20:30:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/kinkyu/20261030.html",
       "source": "mhlw"
     }
   ]
