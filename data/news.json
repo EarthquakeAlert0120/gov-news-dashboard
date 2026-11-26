@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-11-26T12:18:50.203992+09:00",
-  "count": 109,
+  "updatedAt": "2026-11-26T20:45:34.399472+09:00",
+  "count": 113,
   "items": [
+    {
+      "title": "「第８回 ハローワーク業務改善コンクール」の授賞を決定しました",
+      "pubDate": "2026-11-26T18:16:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77683.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
+      "pubDate": "2026-11-26T16:19:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77679.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "厚生労働省、農林水産省、経済産業省及びスポーツ庁が合同で日経健康経営・ロンジェビティEXPO 2026に出展・登壇します",
+      "pubDate": "2026-11-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77684.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第70回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
+      "pubDate": "2026-11-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77599.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度第２回医道審議会医師分科会医師国家試験等改善検討部会",
+      "pubDate": "2026-11-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77579.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "令和８年度「援護事業功労者 厚生労働大臣表彰」の受賞者（被表彰者）を決定しました",
+      "pubDate": "2026-11-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77527.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "「第15回 健康寿命をのばそう！アワード」",
+      "pubDate": "2026-11-26T14:00:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77503.html",
+      "source": "mhlw"
+    },
     {
       "title": "採用情報（任期付職員（職員の育児休業期間の代替職員）政策統括官（情報政策担当））募集情報）",
       "pubDate": "2026-11-26T10:00:00+09:00",
@@ -42,6 +84,12 @@
       "title": "第76回中央最低賃金審議会 資料",
       "pubDate": "2026-11-25T17:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77641.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "第48回 保険者による健診・保健指導等に関する検討会の開催について（オンライン会議・ペーパーレス）",
+      "pubDate": "2026-11-25T15:40:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77655.html",
       "source": "mhlw"
     },
     {
@@ -102,6 +150,12 @@
       "title": "第213回労働政策審議会労働条件分科会 議事録（2026年10月23日）",
       "pubDate": "2026-11-24T19:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77627.html",
+      "source": "mhlw"
+    },
+    {
+      "title": "12月は「職場のハラスメント撲滅月間」です",
+      "pubDate": "2026-11-24T18:23:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77623.html",
       "source": "mhlw"
     },
     {
@@ -198,12 +252,6 @@
       "title": "「第2回と畜場の制度に関する研究会」の開催について",
       "pubDate": "2026-11-20T20:09:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77521.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "上野厚生労働大臣 閣議後記者会見のお知らせ",
-      "pubDate": "2026-11-20T16:40:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77571.html",
       "source": "mhlw"
     },
     {
@@ -513,6 +561,12 @@
       "source": "mhlw"
     },
     {
+      "title": "先進医療会議の開催について",
+      "pubDate": "2026-11-16T20:12:00+09:00",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77458.html",
+      "source": "mhlw"
+    },
+    {
       "title": "令和８年度（令和７年度からの繰越分）医療施設等施設整備費補助金の交付額について（４回目内示）",
       "pubDate": "2026-11-16T16:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77273.html",
@@ -624,36 +678,6 @@
       "title": "後発医薬品を製造販売する企業の安定供給の取組に関する評価結果を公表します",
       "pubDate": "2026-11-13T09:00:00+09:00",
       "link": "https://www.mhlw.go.jp/stf/newpage_77371.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第94回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
-      "pubDate": "2026-11-12T20:36:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77388.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "2026年10月26日 第137回社会保障審議会介護保険部会 議事録",
-      "pubDate": "2026-11-12T17:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77348.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "厚生科学審議会感染症部会第２８回新型インフルエンザ対策に関する小委員会 ・第１３回危機対応医薬品等に関する小委員会についてを開催します",
-      "pubDate": "2026-11-12T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77300.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "第79回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
-      "pubDate": "2026-11-12T14:00:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76869.html",
-      "source": "mhlw"
-    },
-    {
-      "title": "国民健康・栄養調査企画解析検討会の開催について",
-      "pubDate": "2026-11-12T13:50:00+09:00",
-      "link": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00048.html",
       "source": "mhlw"
     }
   ]
